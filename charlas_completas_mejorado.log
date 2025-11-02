@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.2)  2 NOV 2025 22:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.2)  2 NOV 2025 23:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -478,95 +478,92 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38 ...eratividad Concreta}{30}{subsection.3.3.4}
+l.33 ...icativa (2 minutos)}{29}{subsection.3.2.7}
                                                   % [1
 
 ]
-LaTeX Info: Redefining \. on input line 85.
-LaTeX Info: Redefining \% on input line 85.
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
  [2]
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
  [3]
-LaTeX Info: Redefining \. on input line 177.
-LaTeX Info: Redefining \% on input line 177.
+LaTeX Info: Redefining \. on input line 166.
+LaTeX Info: Redefining \% on input line 166.
  [4]
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
+LaTeX Info: Redefining \. on input line 211.
+LaTeX Info: Redefining \% on input line 211.
  [5]
-LaTeX Info: Redefining \. on input line 265.
-LaTeX Info: Redefining \% on input line 265.
+LaTeX Info: Redefining \. on input line 249.
+LaTeX Info: Redefining \% on input line 249.
 
 [6]
-LaTeX Info: Redefining \. on input line 311.
-LaTeX Info: Redefining \% on input line 311.
+LaTeX Info: Redefining \. on input line 294.
+LaTeX Info: Redefining \% on input line 294.
  [7]
 Overfull \hbox (0.85353pt too wide) in paragraph at lines 334--334
  [][] [][][]\T1/cmr/m/n/12 Parte 1: El Pro-ble-ma Fun-da-men-tal^^VEstructura L
 a-bo-ral vs. Men- 
  []
 
-)
+LaTeX Info: Redefining \. on input line 341.
+LaTeX Info: Redefining \% on input line 341.
+[8])
 \tf@toc=\write4
 \openout4 = `charlas_completas_mejorado.toc'.
 
 LaTeX Info: Redefining \. on input line 77.
 LaTeX Info: Redefining \% on input line 77.
- [8]
+ [9]
 Cap\'{\i }tulo 1.
-[9
+[10
 
 ]
 LaTeX Info: Redefining \. on input line 126.
 LaTeX Info: Redefining \% on input line 126.
- [10]
+ [11]
 LaTeX Info: Redefining \. on input line 144.
 LaTeX Info: Redefining \% on input line 144.
- [11]
+ [12]
 LaTeX Info: Redefining \. on input line 146.
 LaTeX Info: Redefining \% on input line 146.
- [12]
+ [13]
 Cap\'{\i }tulo 2.
 
 Overfull \hbox (28.21611pt too wide) in paragraph at lines 149--149
 |\T1/cmr/bx/n/24.88 Comorbilidad y Neu-ro-di-ver-si-dad en Adul-
  []
 
-[13
+[14
 
 ]
 LaTeX Info: Redefining \. on input line 232.
 LaTeX Info: Redefining \% on input line 232.
- [14]
+ [15]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 246.
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
-|[]\T1/cmr/bx/n/14.4 Parte 4: El Efec-to del ``En-mas-ca-ra-mien-to``|
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 272--272
-\T1/cmr/bx/n/14.4 De-pre-sión|
+\T1/cmr/bx/n/14.4 De-pre-sión (2 mi-nu-tos)|
  []
 
 LaTeX Info: Redefining \. on input line 278.
 LaTeX Info: Redefining \% on input line 278.
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 316--316
-\T1/cmr/bx/n/14.4 da-je|
+\T1/cmr/bx/n/14.4 da-je (2 mi-nu-tos)|
  []
 
 LaTeX Info: Redefining \. on input line 328.
 LaTeX Info: Redefining \% on input line 328.
-[16]
-Underfull \hbox (badness 1184) in paragraph at lines 373--373
-|[]\T1/cmr/bx/n/14.4 Parte 7: Abor-da-je In-te-gra-do^^VTratamiento y Apo-yo|
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 373--373
+\T1/cmr/bx/n/14.4 mi-nu-tos)|
  []
 
-LaTeX Info: Redefining \. on input line 381.
-LaTeX Info: Redefining \% on input line 381.
-[17]
+LaTeX Info: Redefining \. on input line 379.
+LaTeX Info: Redefining \% on input line 379.
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 395--395
 \T1/cmr/bx/n/17.28 REN-CIAL|
  []
@@ -586,16 +583,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 406--406
 \T1/cmr/bx/n/14.4 li-dad|
  []
 
-LaTeX Info: Redefining \. on input line 423.
-LaTeX Info: Redefining \% on input line 423.
-[18]
+LaTeX Info: Redefining \. on input line 422.
+LaTeX Info: Redefining \% on input line 422.
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 464--464
 |[]\T1/cmr/bx/n/14.4 Interpretación|
  []
 
 LaTeX Info: Redefining \. on input line 472.
 LaTeX Info: Redefining \% on input line 472.
-[19]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 476--476
 |[]\T1/cmr/bx/n/17.28 CONCLUSIÓN|
  []
@@ -617,57 +614,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 508--508
 
 LaTeX Info: Redefining \. on input line 517.
 LaTeX Info: Redefining \% on input line 517.
-[20]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 517--517
 |[]\T1/cmr/bx/n/14.4 Comunidades|
  []
 
 LaTeX Info: Redefining \. on input line 528.
 LaTeX Info: Redefining \% on input line 528.
-[21]
+[22]
 Cap\'{\i }tulo 3.
 
 Overfull \hbox (17.7524pt too wide) in paragraph at lines 531--531
 |\T1/cmr/bx/n/24.88 Creatividad, Bús-que-da de Sen-ti-do y Rea-
  []
 
-[22
+[23
 
 ]
 LaTeX Info: Redefining \. on input line 613.
 LaTeX Info: Redefining \% on input line 613.
- [23]
-LaTeX Info: Redefining \. on input line 666.
-LaTeX Info: Redefining \% on input line 666.
  [24]
-LaTeX Info: Redefining \. on input line 713.
-LaTeX Info: Redefining \% on input line 713.
+LaTeX Info: Redefining \. on input line 665.
+LaTeX Info: Redefining \% on input line 665.
  [25]
-LaTeX Info: Redefining \. on input line 768.
-LaTeX Info: Redefining \% on input line 768.
+LaTeX Info: Redefining \. on input line 711.
+LaTeX Info: Redefining \% on input line 711.
  [26]
-LaTeX Info: Redefining \. on input line 828.
-LaTeX Info: Redefining \% on input line 828.
+LaTeX Info: Redefining \. on input line 763.
+LaTeX Info: Redefining \% on input line 763.
  [27]
-LaTeX Info: Redefining \. on input line 890.
-LaTeX Info: Redefining \% on input line 890.
+LaTeX Info: Redefining \. on input line 822.
+LaTeX Info: Redefining \% on input line 822.
  [28]
-LaTeX Info: Redefining \. on input line 946.
-LaTeX Info: Redefining \% on input line 946.
+LaTeX Info: Redefining \. on input line 885.
+LaTeX Info: Redefining \% on input line 885.
  [29]
+LaTeX Info: Redefining \. on input line 943.
+LaTeX Info: Redefining \% on input line 943.
+ [30]
 Overfull \hbox (24.9822pt too wide) in paragraph at lines 954--955
 []\T1/cmr/m/n/12 ``Podría usar mi ta-len-to/inteligencia/creatividad pa-ra con-
 tri-buir a [cau-sa/problema/persona]
  []
 
-
+LaTeX Info: Redefining \. on input line 1000.
+LaTeX Info: Redefining \% on input line 1000.
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 1000--1000
 [][]\T1/cmr/bx/n/14.4 Estructura de Tran-si-ción de 3 Años|
  []
 
-LaTeX Info: Redefining \. on input line 1004.
-LaTeX Info: Redefining \% on input line 1004.
-[30]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
 |[]\T1/cmr/bx/n/17.28 CONCLUSIÓN|
  []
@@ -687,35 +684,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 1050--1050
 |[]\T1/cmr/bx/n/14.4 Comunidades|
  []
 
-LaTeX Info: Redefining \. on input line 1054.
-LaTeX Info: Redefining \% on input line 1054.
-[31]
+LaTeX Info: Redefining \. on input line 1053.
+LaTeX Info: Redefining \% on input line 1053.
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 1058--1058
 |[]\T1/cmr/bx/n/14.4 Herramientas|
  []
 
 LaTeX Info: Redefining \. on input line 1068.
 LaTeX Info: Redefining \% on input line 1068.
-[32]
+[33]
 Cap\'{\i }tulo 4.
-[33
+[34
 
 ]
-LaTeX Info: Redefining \. on input line 1168.
-LaTeX Info: Redefining \% on input line 1168.
- [34]
-LaTeX Info: Redefining \. on input line 1222.
-LaTeX Info: Redefining \% on input line 1222.
+LaTeX Info: Redefining \. on input line 1166.
+LaTeX Info: Redefining \% on input line 1166.
  [35]
-LaTeX Info: Redefining \. on input line 1276.
-LaTeX Info: Redefining \% on input line 1276.
+LaTeX Info: Redefining \. on input line 1221.
+LaTeX Info: Redefining \% on input line 1221.
  [36]
+LaTeX Info: Redefining \. on input line 1275.
+LaTeX Info: Redefining \% on input line 1275.
+ [37]
 LaTeX Info: Redefining \. on input line 1325.
 LaTeX Info: Redefining \% on input line 1325.
- [37]
-LaTeX Info: Redefining \. on input line 1383.
-LaTeX Info: Redefining \% on input line 1383.
  [38]
+LaTeX Info: Redefining \. on input line 1382.
+LaTeX Info: Redefining \% on input line 1382.
+ [39]
 Underfull \hbox (badness 10000) in paragraph at lines 1402--1402
 [][]\T1/cmr/bx/n/14.4 Superdotación + Au-tis-mo|
  []
@@ -735,9 +732,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1417--1417
 \T1/cmr/bx/n/17.28 TOS 2E|
  []
 
-LaTeX Info: Redefining \. on input line 1454.
-LaTeX Info: Redefining \% on input line 1454.
-[39]
+LaTeX Info: Redefining \. on input line 1450.
+LaTeX Info: Redefining \% on input line 1450.
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 1477--1477
 |[]\T1/cmr/bx/n/14.4 Interpretación|
  []
@@ -747,9 +744,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 \T1/cmr/bx/n/17.28 ES-PE-CIA-LI-ZA-DOS|
  []
 
-LaTeX Info: Redefining \. on input line 1516.
-LaTeX Info: Redefining \% on input line 1516.
-[40]
+LaTeX Info: Redefining \. on input line 1510.
+LaTeX Info: Redefining \% on input line 1510.
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 1530--1530
 |[]\T1/cmr/bx/n/14.4 Herramientas y Es-tra-te-gias Con-cre-tas|
  []
@@ -761,7 +758,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1566--1566
 
 LaTeX Info: Redefining \. on input line 1570.
 LaTeX Info: Redefining \% on input line 1570.
-[41]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 1588--1588
 |[]\T1/cmr/bx/n/17.28 LLAMADAS A LA AC-CIÓN|
  []
@@ -789,39 +786,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
 
 LaTeX Info: Redefining \. on input line 1618.
 LaTeX Info: Redefining \% on input line 1618.
-[42]
+[43]
 LaTeX Info: Redefining \. on input line 1636.
 LaTeX Info: Redefining \% on input line 1636.
- [43]
+ [44]
 Cap\'{\i }tulo 5.
-[44
+[45
 
 ]
-LaTeX Info: Redefining \. on input line 1721.
-LaTeX Info: Redefining \% on input line 1721.
- [45]
-LaTeX Info: Redefining \. on input line 1782.
-LaTeX Info: Redefining \% on input line 1782.
+LaTeX Info: Redefining \. on input line 1719.
+LaTeX Info: Redefining \% on input line 1719.
  [46]
-LaTeX Info: Redefining \. on input line 1845.
-LaTeX Info: Redefining \% on input line 1845.
+LaTeX Info: Redefining \. on input line 1780.
+LaTeX Info: Redefining \% on input line 1780.
  [47]
-LaTeX Info: Redefining \. on input line 1904.
-LaTeX Info: Redefining \% on input line 1904.
+LaTeX Info: Redefining \. on input line 1838.
+LaTeX Info: Redefining \% on input line 1838.
  [48]
-LaTeX Info: Redefining \. on input line 1970.
-LaTeX Info: Redefining \% on input line 1970.
+LaTeX Info: Redefining \. on input line 1901.
+LaTeX Info: Redefining \% on input line 1901.
  [49]
+LaTeX Info: Redefining \. on input line 1966.
+LaTeX Info: Redefining \% on input line 1966.
+ [50]
 Overfull \hbox (16.75891pt too wide) in paragraph at lines 2014--2018
 []\T1/cmr/m/n/12 Tema: _____________ Re-cur-so prin-ci-pal: _____________ Tiem-
 po/semana:
  []
 
-LaTeX Info: Redefining \. on input line 2044.
-LaTeX Info: Redefining \% on input line 2044.
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 2057--2057
-[][]\T1/cmr/bx/n/14.4 Ejercicio 5: Sis-te-ma de Ac-coun-ta-bi-lity|
+LaTeX Info: Redefining \. on input line 2032.
+LaTeX Info: Redefining \% on input line 2032.
+[51]
+Underfull \hbox (badness 1082) in paragraph at lines 2057--2057
+[][]\T1/cmr/bx/n/14.4 Ejercicio 5: Sis-te-ma de Ac-coun-ta-bi-lity (20 mi-nu-to
+s)|
  []
 
 
@@ -839,9 +837,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2098--2098
 |[]\T1/cmr/bx/n/14.4 Comunidades de Apren-di-za-je|
  []
 
-LaTeX Info: Redefining \. on input line 2105.
-LaTeX Info: Redefining \% on input line 2105.
-[51]
+LaTeX Info: Redefining \. on input line 2102.
+LaTeX Info: Redefining \% on input line 2102.
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 2108--2108
 |[]\T1/cmr/bx/n/14.4 Bibliotecas|
  []
@@ -871,28 +869,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 2157--2157
 |[]\T1/cmr/bx/n/14.4 Este mes:|
  []
 
-LaTeX Info: Redefining \. on input line 2166.
-LaTeX Info: Redefining \% on input line 2166.
-[52]
+LaTeX Info: Redefining \. on input line 2161.
+LaTeX Info: Redefining \% on input line 2161.
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 2166--2166
 |[]\T1/cmr/bx/n/14.4 Este año:|
  []
 
 LaTeX Info: Redefining \. on input line 2177.
 LaTeX Info: Redefining \% on input line 2177.
-[53]
+[54]
 Cap\'{\i }tulo 6.
 
 Overfull \hbox (3.38283pt too wide) in paragraph at lines 2184--2184
 |[]\T1/cmr/bx/n/17.28 Charla de 15 mi-nu-tos + Cam-pa-ña/Folleto + Mini-
  []
 
-[54
+[55
 
 ]
 LaTeX Info: Redefining \. on input line 2260.
 LaTeX Info: Redefining \% on input line 2260.
- [55]
+ [56]
 Overfull \hbox (4.01497pt too wide) in paragraph at lines 2268--2269
 []\T1/cmr/bx/n/12 La ima-gen de ``nerd ais-la-do``^^Vcomo el per-so-na-je de Th
 e Big Bang Theory^^Ves
@@ -900,10 +898,10 @@ e Big Bang Theory^^Ves
 
 LaTeX Info: Redefining \. on input line 2302.
 LaTeX Info: Redefining \% on input line 2302.
-[56]
+[57]
 LaTeX Info: Redefining \. on input line 2347.
 LaTeX Info: Redefining \% on input line 2347.
- [57]
+ [58]
 
 ! LaTeX Error: \begin{document} ended by \end{quoting}.
 
@@ -927,7 +925,7 @@ Things are pretty mixed up, but I think the worst is over.
 
 LaTeX Info: Redefining \. on input line 2413.
 LaTeX Info: Redefining \% on input line 2413.
-[58]
+[59]
 
 ! LaTeX Error: Unicode character âœ“ (U+2713)
                not set up for use with LaTeX.
@@ -1061,13 +1059,13 @@ You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 2463--2463
-|[]\T1/cmr/bx/n/17.28 PARTE III: MINI-CHARLA DI-VUL-GA-TI-VA|
+Underfull \hbox (badness 10000) in paragraph at lines 2463--2463
+\T1/cmr/bx/n/17.28 MI-NU-TOS)|
  []
 
-LaTeX Info: Redefining \. on input line 2473.
-LaTeX Info: Redefining \% on input line 2473.
-[59]
+LaTeX Info: Redefining \. on input line 2471.
+LaTeX Info: Redefining \% on input line 2471.
+[60]
 
 ! LaTeX Error: \begin{center} on input line 2403 ended by \end{quoting}.
 
@@ -1359,7 +1357,7 @@ You may provide a definition with
 
 LaTeX Info: Redefining \. on input line 2546.
 LaTeX Info: Redefining \% on input line 2546.
-[60]
+[61]
 
 ! LaTeX Error: Unicode character âœ“ (U+2713)
                not set up for use with LaTeX.
@@ -1502,10 +1500,10 @@ You may provide a definition with
 
 LaTeX Info: Redefining \. on input line 2599.
 LaTeX Info: Redefining \% on input line 2599.
-[61]
+[62]
 LaTeX Info: Redefining \. on input line 2655.
 LaTeX Info: Redefining \% on input line 2655.
- [62]
+ [63]
 
 ! LaTeX Error: \begin{document} ended by \end{quoting}.
 
@@ -1610,7 +1608,7 @@ Things are pretty mixed up, but I think the worst is over.
 
 LaTeX Info: Redefining \. on input line 2710.
 LaTeX Info: Redefining \% on input line 2710.
-[63]
+[64]
 
 ! LaTeX Error: \begin{document} ended by \end{center}.
 
@@ -1633,73 +1631,73 @@ Things are pretty mixed up, but I think the worst is over.
 
 LaTeX Info: Redefining \. on input line 2743.
 LaTeX Info: Redefining \% on input line 2743.
-[64]
+[65]
 Cap\'{\i }tulo 7.
-[65
+[66
 
 ]
 LaTeX Info: Redefining \. on input line 2834.
 LaTeX Info: Redefining \% on input line 2834.
- [66]
+ [67]
 LaTeX Info: Redefining \. on input line 2885.
 LaTeX Info: Redefining \% on input line 2885.
- [67]
+ [68]
 LaTeX Info: Redefining \. on input line 2937.
 LaTeX Info: Redefining \% on input line 2937.
- [68]
+ [69]
 LaTeX Info: Redefining \. on input line 2987.
 LaTeX Info: Redefining \% on input line 2987.
- [69]
+ [70]
 Overfull \hbox (21.3981pt too wide) in paragraph at lines 3034--3034
 |[]\T1/cmr/bx/n/17.28 PARTE II: GUÍA DE AU-TO-EVA-LUA-CIÓN PRÁC-
  []
 
 LaTeX Info: Redefining \. on input line 3037.
 LaTeX Info: Redefining \% on input line 3037.
-[70]
+[71]
 LaTeX Info: Redefining \. on input line 3092.
 LaTeX Info: Redefining \% on input line 3092.
- [71]
+ [72]
 LaTeX Info: Redefining \. on input line 3155.
 LaTeX Info: Redefining \% on input line 3155.
- [72]
+ [73]
 LaTeX Info: Redefining \. on input line 3212.
 LaTeX Info: Redefining \% on input line 3212.
- [73]
+ [74]
 LaTeX Info: Redefining \. on input line 3263.
 LaTeX Info: Redefining \% on input line 3263.
- [74]
+ [75]
 LaTeX Info: Redefining \. on input line 3267.
 LaTeX Info: Redefining \% on input line 3267.
- [75]
+ [76]
 Cap\'{\i }tulo 8.
-[76
+[77
 
 ]
 LaTeX Info: Redefining \. on input line 3359.
 LaTeX Info: Redefining \% on input line 3359.
- [77]
+ [78]
 LaTeX Info: Redefining \. on input line 3411.
 LaTeX Info: Redefining \% on input line 3411.
- [78]
+ [79]
 LaTeX Info: Redefining \. on input line 3462.
 LaTeX Info: Redefining \% on input line 3462.
- [79]
-LaTeX Info: Redefining \. on input line 3518.
-LaTeX Info: Redefining \% on input line 3518.
  [80]
+LaTeX Info: Redefining \. on input line 3516.
+LaTeX Info: Redefining \% on input line 3516.
+ [81]
 LaTeX Info: Redefining \. on input line 3569.
 LaTeX Info: Redefining \% on input line 3569.
- [81]
+ [82]
 LaTeX Info: Redefining \. on input line 3621.
 LaTeX Info: Redefining \% on input line 3621.
- [82]
+ [83]
 LaTeX Info: Redefining \. on input line 3682.
 LaTeX Info: Redefining \% on input line 3682.
- [83]
+ [84]
 LaTeX Info: Redefining \. on input line 3745.
 LaTeX Info: Redefining \% on input line 3745.
- [84]
+ [85]
 Underfull \hbox (badness 1675) in paragraph at lines 3789--3789
 |[]\T1/cmr/bx/n/14.4 Ejercicio 4: La Prue-ba de ``Su-fi-cien-te-men-te Bueno``|
 
@@ -1712,7 +1710,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3810--3810
 
 LaTeX Info: Redefining \. on input line 3814.
 LaTeX Info: Redefining \% on input line 3814.
-[85]
+[86]
 Underfull \hbox (badness 4967) in paragraph at lines 3826--3826
 |[]\T1/cmr/bx/n/17.28 PARTE IV: LLA-MA-DAS A LA AC-CIÓN|
  []
@@ -1739,33 +1737,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 3857--3857
 
 LaTeX Info: Redefining \. on input line 3867.
 LaTeX Info: Redefining \% on input line 3867.
-[86]
+[87]
 Underfull \hbox (badness 10000) in paragraph at lines 3875--3875
 |[]\T1/cmr/bx/n/17.28 RECURSOS|
  []
 
 LaTeX Info: Redefining \. on input line 3900.
 LaTeX Info: Redefining \% on input line 3900.
-[87]
+[88]
 Cap\'{\i }tulo 9.
-[88
+[89
 
 ]
-LaTeX Info: Redefining \. on input line 3972.
-LaTeX Info: Redefining \% on input line 3972.
- [89]
-LaTeX Info: Redefining \. on input line 4019.
-LaTeX Info: Redefining \% on input line 4019.
+LaTeX Info: Redefining \. on input line 3970.
+LaTeX Info: Redefining \% on input line 3970.
  [90]
-LaTeX Info: Redefining \. on input line 4069.
-LaTeX Info: Redefining \% on input line 4069.
+LaTeX Info: Redefining \. on input line 4018.
+LaTeX Info: Redefining \% on input line 4018.
  [91]
-LaTeX Info: Redefining \. on input line 4117.
-LaTeX Info: Redefining \% on input line 4117.
+LaTeX Info: Redefining \. on input line 4067.
+LaTeX Info: Redefining \% on input line 4067.
  [92]
-LaTeX Info: Redefining \. on input line 4159.
-LaTeX Info: Redefining \% on input line 4159.
+LaTeX Info: Redefining \. on input line 4116.
+LaTeX Info: Redefining \% on input line 4116.
  [93]
+LaTeX Info: Redefining \. on input line 4157.
+LaTeX Info: Redefining \% on input line 4157.
+ [94]
 Overfull \hbox (8.2243pt too wide) in paragraph at lines 4173--4173
 |[]\T1/cmr/bx/n/17.28 PARTE II: MAR-CO CON-CEP-TUAL IN-TER-SEC-
  []
@@ -1775,9 +1773,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 4198--4198
 |[]\T1/cmr/bx/n/14.4 Ejemplo Con-cre-to: Tres Per-so-nas Su-per-do-ta-das|
  []
 
-LaTeX Info: Redefining \. on input line 4208.
-LaTeX Info: Redefining \% on input line 4208.
-[94]
+LaTeX Info: Redefining \. on input line 4207.
+LaTeX Info: Redefining \% on input line 4207.
+[95]
 Overfull \hbox (7.45183pt too wide) in paragraph at lines 4219--4219
 |[]\T1/cmr/bx/n/17.28 PARTE III: PRO-PUES-TAS DE IN-TER-VEN-CIÓN
  []
@@ -1797,9 +1795,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 4252--4252
 |[]\T1/cmr/bx/n/14.4 A Ni-vel Edu-ca-ti-vo|
  []
 
-LaTeX Info: Redefining \. on input line 4262.
-LaTeX Info: Redefining \% on input line 4262.
-[95]
+LaTeX Info: Redefining \. on input line 4257.
+LaTeX Info: Redefining \% on input line 4257.
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 4280--4280
 |[]\T1/cmr/bx/n/14.4 A Ni-vel de Po-lí-ti-ca Pú-bli-ca|
  []
@@ -1816,14 +1814,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 4310--4310
 
 LaTeX Info: Redefining \. on input line 4314.
 LaTeX Info: Redefining \% on input line 4314.
-[96]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 4345--4345
 \T1/cmr/bx/n/17.28 AC-CIÓN|
  []
 
 LaTeX Info: Redefining \. on input line 4348.
 LaTeX Info: Redefining \% on input line 4348.
-[97]
+[98]
 Underfull \hbox (badness 10000) in paragraph at lines 4348--4348
 |[]\T1/cmr/bx/n/14.4 Para Edu-ca-do-res|
  []
@@ -1840,7 +1838,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4382--4382
 
 LaTeX Info: Redefining \. on input line 4394.
 LaTeX Info: Redefining \% on input line 4394.
-[98]
+[99]
 Underfull \hbox (badness 10000) in paragraph at lines 4399--4399
 |[]\T1/cmr/bx/n/14.4 Para Adul-tos Su-per-do-ta-dos|
  []
@@ -1862,7 +1860,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4443--4443
 
 LaTeX Info: Redefining \. on input line 4447.
 LaTeX Info: Redefining \% on input line 4447.
-[99]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 4452--4452
 |[]\T1/cmr/bx/n/14.4 Género y Su-per-do-ta-ción|
  []
@@ -1977,7 +1975,7 @@ and I'll forget about whatever was undefined.
 
 LaTeX Info: Redefining \. on input line 4500.
 LaTeX Info: Redefining \% on input line 4500.
-[100]
+[101]
 ! Undefined control sequence.
 <recently read> \square 
                         
@@ -2056,14 +2054,14 @@ Things are pretty mixed up, but I think the worst is over.
 
 LaTeX Info: Redefining \. on input line 4520.
 LaTeX Info: Redefining \% on input line 4520.
-[101]
+[102]
 Cap\'{\i }tulo 10.
-[102
+[103
 
 ]
 LaTeX Info: Redefining \. on input line 4597.
 LaTeX Info: Redefining \% on input line 4597.
- [103]
+ [104]
 Overfull \hbox (1.23106pt too wide) in paragraph at lines 4608--4609
 []\T1/cmr/bx/n/12 Brecha in-ves-ti-ga-ti-va\T1/cmr/m/n/12 : Ne-ce-si-ta-mos es-
 tu-dios \T1/cmr/bx/n/12 CUA-LI-TA-TI-VOS RI-GU-RO-SOS \T1/cmr/m/n/12 (en-
@@ -2071,10 +2069,10 @@ tu-dios \T1/cmr/bx/n/12 CUA-LI-TA-TI-VOS RI-GU-RO-SOS \T1/cmr/m/n/12 (en-
 
 LaTeX Info: Redefining \. on input line 4636.
 LaTeX Info: Redefining \% on input line 4636.
-[104]
+[105]
 LaTeX Info: Redefining \. on input line 4684.
 LaTeX Info: Redefining \% on input line 4684.
- [105]
+ [106]
 Overfull \hbox (1.74228pt too wide) in paragraph at lines 4709--4710
 []\T1/cmr/m/n/12 Riesgo de ses-go de mues-treo (tí-pi-ca-men-te re-clu-tan su-p
 er-do-ta-dos EXI-TO-SOS o DIAG-
@@ -2082,10 +2080,10 @@ er-do-ta-dos EXI-TO-SOS o DIAG-
 
 LaTeX Info: Redefining \. on input line 4731.
 LaTeX Info: Redefining \% on input line 4731.
-[106]
+[107]
 LaTeX Info: Redefining \. on input line 4776.
 LaTeX Info: Redefining \% on input line 4776.
- [107]
+ [108]
 Overfull \hbox (1.53386pt too wide) in paragraph at lines 4810--4813
 []\T1/cmr/bx/n/12 Presupuesto\T1/cmr/m/n/12 : ~\TS1/cmr/m/n/12 ¿\T1/cmr/m/n/12 
 500K-750K \T1/cmr/bx/n/12 Fi-nan-cia-mien-to\T1/cmr/m/n/12 : Fon-dos de in-ves-
@@ -2094,31 +2092,31 @@ ti-ga-ción eu-ro-peos (Ho-
 
 LaTeX Info: Redefining \. on input line 4823.
 LaTeX Info: Redefining \% on input line 4823.
-[108]
+[109]
 Overfull \hbox (16.2759pt too wide) in paragraph at lines 4878--4878
 |[]\T1/cmr/bx/n/17.28 PARTE II: PRO-PUES-TAS DE IN-VES-TI-GA-CIÓN
  []
 
 LaTeX Info: Redefining \. on input line 4881.
 LaTeX Info: Redefining \% on input line 4881.
-[109]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 4920--4920
 \T1/cmr/bx/n/14.4 vi-da de Su-per-do-ta-ción en Adul-tez|
  []
 
 LaTeX Info: Redefining \. on input line 4934.
 LaTeX Info: Redefining \% on input line 4934.
-[110]
+[111]
 Underfull \hbox (badness 10000) in paragraph at lines 4964--4964
 \T1/cmr/bx/n/14.4 tis-fac-ción Vo-ca-cio-nal|
  []
 
 LaTeX Info: Redefining \. on input line 4983.
 LaTeX Info: Redefining \% on input line 4983.
-[111]
+[112]
 LaTeX Info: Redefining \. on input line 5032.
 LaTeX Info: Redefining \% on input line 5032.
- [112]
+ [113]
 Underfull \hbox (badness 10000) in paragraph at lines 5032--5032
 \T1/cmr/bx/n/14.4 dad y Su-per-do-ta-ción|
  []
@@ -2135,7 +2133,7 @@ Underfull \hbox (badness 1859) in paragraph at lines 5069--5069
 
 LaTeX Info: Redefining \. on input line 5082.
 LaTeX Info: Redefining \% on input line 5082.
-[113]
+[114]
 Underfull \hbox (badness 3792) in paragraph at lines 5089--5089
 |[]\T1/cmr/bx/n/14.4 Validez de Cons-truc-to: ¾Qué Es-ta-mos Mi-dien-do?|
  []
@@ -2152,7 +2150,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5116--5116
 
 LaTeX Info: Redefining \. on input line 5125.
 LaTeX Info: Redefining \% on input line 5125.
-[114]
+[115]
 Underfull \hbox (badness 10000) in paragraph at lines 5131--5131
 |[]\T1/cmr/bx/n/14.4 Reflexividad del In-ves-ti-ga-dor|
  []
@@ -2164,64 +2162,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 5145--5145
 
 LaTeX Info: Redefining \. on input line 5171.
 LaTeX Info: Redefining \% on input line 5171.
-[115]
+[116]
 Underfull \hbox (badness 10000) in paragraph at lines 5195--5195
 |[]\T1/cmr/bx/n/17.28 REFERENCIAS DE ME-TO-DO-LO-GÍA|
  []
 
 LaTeX Info: Redefining \. on input line 5208.
 LaTeX Info: Redefining \% on input line 5208.
-[116]
+[117]
 Cap\'{\i }tulo 11.
-[117
+[118
 
 ]
-LaTeX Info: Redefining \. on input line 5295.
-LaTeX Info: Redefining \% on input line 5295.
- [118]
-Underfull \hbox (badness 10000) in paragraph at lines 5339--5339
-\T1/cmr/bx/n/14.4 per-do-ta-dos|
+LaTeX Info: Redefining \. on input line 5290.
+LaTeX Info: Redefining \% on input line 5290.
+ [119]
+Underfull \hbox (badness 10000) in paragraph at lines 5300--5300
+\T1/cmr/bx/n/14.4 (2.5 mi-nu-tos)|
  []
 
-LaTeX Info: Redefining \. on input line 5351.
-LaTeX Info: Redefining \% on input line 5351.
-[119]
+
+Underfull \hbox (badness 10000) in paragraph at lines 5339--5339
+\T1/cmr/bx/n/14.4 per-do-ta-dos (2.5 mi-nu-tos)|
+ []
+
+LaTeX Info: Redefining \. on input line 5345.
+LaTeX Info: Redefining \% on input line 5345.
+[120]
 Underfull \hbox (badness 10000) in paragraph at lines 5410--5410
-\T1/cmr/bx/n/14.4 Ne-ce-si-tan de Sus Pa-dres|
+\T1/cmr/bx/n/14.4 Ne-ce-si-tan de Sus Pa-dres (2 mi-nu-tos)|
  []
 
 LaTeX Info: Redefining \. on input line 5415.
 LaTeX Info: Redefining \% on input line 5415.
-[120]
+[121]
 Underfull \hbox (badness 10000) in paragraph at lines 5426--5426
 \T1/cmr/bx/n/17.28 CIEN-CIA|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5473--5473
-|[]\T1/cmr/bx/n/14.4 Ejercicio 2: Iden-ti-fi-ca-ción de Pro-yec-cio-nes|
+Underfull \hbox (badness 10000) in paragraph at lines 5429--5429
+\T1/cmr/bx/n/14.4 mi-nu-tos)|
  []
 
-LaTeX Info: Redefining \. on input line 5487.
-LaTeX Info: Redefining \% on input line 5487.
-[121]
+LaTeX Info: Redefining \. on input line 5483.
+LaTeX Info: Redefining \% on input line 5483.
+[122]
 Underfull \hbox (badness 10000) in paragraph at lines 5508--5508
-|[]\T1/cmr/bx/n/14.4 Ejercicio 3: Pre-sión Trans-mi-ti-da|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5523--5523
-|[]\T1/cmr/bx/n/14.4 Ejercicio 4: Va-li-da-ción de Iden-ti-dad Pro-pia|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5545--5545
-|[]\T1/cmr/bx/n/14.4 Ejercicio 5: Plan de Apo-yo Emo-cio-nal|
+|[]\T1/cmr/bx/n/14.4 Ejercicio 3: Pre-sión Trans-mi-ti-da (20 mi-nu-tos)|
  []
 
 LaTeX Info: Redefining \. on input line 5552.
 LaTeX Info: Redefining \% on input line 5552.
-[122]
+[123]
 Underfull \hbox (badness 10000) in paragraph at lines 5560--5560
 \T1/cmr/bx/n/17.28 JO|
  []
@@ -2238,7 +2231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5593--5593
 
 LaTeX Info: Redefining \. on input line 5597.
 LaTeX Info: Redefining \% on input line 5597.
-[123]
+[124]
 Underfull \hbox (badness 10000) in paragraph at lines 5613--5613
 |[]\T1/cmr/bx/n/17.28 RECURSOS|
  []
@@ -2260,12 +2253,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5634--5634
 
 LaTeX Info: Redefining \. on input line 5652.
 LaTeX Info: Redefining \% on input line 5652.
-[124]
+[125]
 LaTeX Info: Redefining \. on input line 5661.
 LaTeX Info: Redefining \% on input line 5661.
- [125]
+ [126]
 Cap\'{\i }tulo 12.
-[126
+[127
 
 ]
 Overfull \hbox (20.07904pt too wide) in paragraph at lines 5702--5703
@@ -2273,27 +2266,27 @@ Overfull \hbox (20.07904pt too wide) in paragraph at lines 5702--5703
 -res (LOM-LOE, 3/2020)\T1/cmr/m/n/12 :
  []
 
-LaTeX Info: Redefining \. on input line 5768.
-LaTeX Info: Redefining \% on input line 5768.
-[127]
-LaTeX Info: Redefining \. on input line 5818.
-LaTeX Info: Redefining \% on input line 5818.
- [128]
-LaTeX Info: Redefining \. on input line 5869.
-LaTeX Info: Redefining \% on input line 5869.
+LaTeX Info: Redefining \. on input line 5764.
+LaTeX Info: Redefining \% on input line 5764.
+[128]
+LaTeX Info: Redefining \. on input line 5815.
+LaTeX Info: Redefining \% on input line 5815.
  [129]
-LaTeX Info: Redefining \. on input line 5924.
-LaTeX Info: Redefining \% on input line 5924.
+LaTeX Info: Redefining \. on input line 5865.
+LaTeX Info: Redefining \% on input line 5865.
  [130]
-LaTeX Info: Redefining \. on input line 5977.
-LaTeX Info: Redefining \% on input line 5977.
+LaTeX Info: Redefining \. on input line 5922.
+LaTeX Info: Redefining \% on input line 5922.
  [131]
-LaTeX Info: Redefining \. on input line 6037.
-LaTeX Info: Redefining \% on input line 6037.
+LaTeX Info: Redefining \. on input line 5976.
+LaTeX Info: Redefining \% on input line 5976.
  [132]
-LaTeX Info: Redefining \. on input line 6105.
-LaTeX Info: Redefining \% on input line 6105.
+LaTeX Info: Redefining \. on input line 6036.
+LaTeX Info: Redefining \% on input line 6036.
  [133]
+LaTeX Info: Redefining \. on input line 6097.
+LaTeX Info: Redefining \% on input line 6097.
+ [134]
 Overfull \hbox (8.86542pt too wide) in paragraph at lines 6136--6136
 |[]\T1/cmr/bx/n/17.28 PARTE V: MAR-CO NOR-MA-TI-VO - RE-FE-REN-
  []
@@ -2319,14 +2312,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 6156--6156
 |[]\T1/cmr/bx/n/14.4 Donde bus-car in-for-ma-ción por CCAA|
  []
 
-
+LaTeX Info: Redefining \. on input line 6162.
+LaTeX Info: Redefining \% on input line 6162.
+[135]
 Underfull \hbox (badness 10000) in paragraph at lines 6166--6166
 |[]\T1/cmr/bx/n/14.4 Lecturas Re-co-men-da-das|
  []
 
-LaTeX Info: Redefining \. on input line 6170.
-LaTeX Info: Redefining \% on input line 6170.
-[134]
+
 Underfull \hbox (badness 10000) in paragraph at lines 6176--6176
 |[]\T1/cmr/bx/n/14.4 Líneas de Ayu-da|
  []
@@ -2343,7 +2336,7 @@ Underfull \hbox (badness 2150) in paragraph at lines 6200--6200
 
 LaTeX Info: Redefining \. on input line 6221.
 LaTeX Info: Redefining \% on input line 6221.
-[135]
+[136]
 Cap\'{\i }tulo 13.
 
 Overfull \hbox (12.32184pt too wide) in paragraph at lines 6224--6224
@@ -2355,33 +2348,33 @@ Overfull \hbox (1.78185pt too wide) in paragraph at lines 6228--6228
 |[]\T1/cmr/bx/n/17.28 Charla de 15 mi-nu-tos + Ta-ller Prác-ti-co con Role-
  []
 
-[136
+[137
 
 ]
-LaTeX Info: Redefining \. on input line 6304.
-LaTeX Info: Redefining \% on input line 6304.
- [137]
-LaTeX Info: Redefining \. on input line 6348.
-LaTeX Info: Redefining \% on input line 6348.
+LaTeX Info: Redefining \. on input line 6303.
+LaTeX Info: Redefining \% on input line 6303.
  [138]
-LaTeX Info: Redefining \. on input line 6402.
-LaTeX Info: Redefining \% on input line 6402.
+LaTeX Info: Redefining \. on input line 6347.
+LaTeX Info: Redefining \% on input line 6347.
  [139]
-LaTeX Info: Redefining \. on input line 6451.
-LaTeX Info: Redefining \% on input line 6451.
+LaTeX Info: Redefining \. on input line 6400.
+LaTeX Info: Redefining \% on input line 6400.
  [140]
-LaTeX Info: Redefining \. on input line 6505.
-LaTeX Info: Redefining \% on input line 6505.
+LaTeX Info: Redefining \. on input line 6450.
+LaTeX Info: Redefining \% on input line 6450.
  [141]
-LaTeX Info: Redefining \. on input line 6556.
-LaTeX Info: Redefining \% on input line 6556.
+LaTeX Info: Redefining \. on input line 6503.
+LaTeX Info: Redefining \% on input line 6503.
  [142]
-LaTeX Info: Redefining \. on input line 6615.
-LaTeX Info: Redefining \% on input line 6615.
+LaTeX Info: Redefining \. on input line 6555.
+LaTeX Info: Redefining \% on input line 6555.
  [143]
-LaTeX Info: Redefining \. on input line 6661.
-LaTeX Info: Redefining \% on input line 6661.
+LaTeX Info: Redefining \. on input line 6612.
+LaTeX Info: Redefining \% on input line 6612.
  [144]
+LaTeX Info: Redefining \. on input line 6657.
+LaTeX Info: Redefining \% on input line 6657.
+ [145]
 Overfull \hbox (1.09413pt too wide) in paragraph at lines 6661--6661
 |[]\T1/cmr/bx/n/17.28 PARTE IV: RE-CUR-SOS Y ES-TRA-TE-GIAS PA-
  []
@@ -2391,22 +2384,22 @@ Overfull \hbox (10.333pt too wide) in paragraph at lines 6710--6710
 |[]\T1/cmr/bx/n/17.28 PARTE V: RE-FLE-XIO-NES Y PRE-GUN-TAS PA-
  []
 
-LaTeX Info: Redefining \. on input line 6726.
-LaTeX Info: Redefining \% on input line 6726.
-[145]
-LaTeX Info: Redefining \. on input line 6777.
-LaTeX Info: Redefining \% on input line 6777.
- [146]
+LaTeX Info: Redefining \. on input line 6722.
+LaTeX Info: Redefining \% on input line 6722.
+[146]
+LaTeX Info: Redefining \. on input line 6775.
+LaTeX Info: Redefining \% on input line 6775.
+ [147]
 LaTeX Info: Redefining \. on input line 6811.
 LaTeX Info: Redefining \% on input line 6811.
- [147]
+ [148]
 Cap\'{\i }tulo 14.
 
 Overfull \hbox (26.94815pt too wide) in paragraph at lines 6814--6814
 |\T1/cmr/bx/n/24.88 Sobreexcitabilidad Emo-cio-nal y Da-brows-
  []
 
-[148
+[149
 
 ]
 Overfull \hbox (32.05693pt too wide) in paragraph at lines 6886--6887
@@ -2416,90 +2409,84 @@ as so-bre-ex-ci-ta-bi-li-da-des^^Vespecialmente
 
 LaTeX Info: Redefining \. on input line 6887.
 LaTeX Info: Redefining \% on input line 6887.
-[149]
+[150]
 LaTeX Info: Redefining \. on input line 6929.
 LaTeX Info: Redefining \% on input line 6929.
- [150]
+ [151]
 LaTeX Info: Redefining \. on input line 6974.
 LaTeX Info: Redefining \% on input line 6974.
- [151]
+ [152]
 LaTeX Info: Redefining \. on input line 7025.
 LaTeX Info: Redefining \% on input line 7025.
- [152]
+ [153]
 Overfull \hbox (4.91493pt too wide) in paragraph at lines 7033--7033
 |[]\T1/cmr/bx/n/17.28 PARTE III: EJER-CI-CIOS PRÁC-TI-COS DE AU-
  []
 
 LaTeX Info: Redefining \. on input line 7072.
 LaTeX Info: Redefining \% on input line 7072.
-[153]
+[154]
 LaTeX Info: Redefining \. on input line 7121.
 LaTeX Info: Redefining \% on input line 7121.
- [154]
+ [155]
 LaTeX Info: Redefining \. on input line 7181.
 LaTeX Info: Redefining \% on input line 7181.
- [155]
+ [156]
 LaTeX Info: Redefining \. on input line 7190.
 LaTeX Info: Redefining \% on input line 7190.
- [156]
+ [157]
 Cap\'{\i }tulo 15.
-[157
+[158
 
 ]
 LaTeX Info: Redefining \. on input line 7271.
 LaTeX Info: Redefining \% on input line 7271.
- [158]
+ [159]
 Overfull \hbox (37.43086pt too wide) in paragraph at lines 7274--7274
 |[]\T1/cmr/bx/n/14.4 Parte 2: La Cri-sis de Elec-ción de Ca-rre-ra^^VMultipoten
-cialidad| 
+cialidad
  []
 
-LaTeX Info: Redefining \. on input line 7326.
-LaTeX Info: Redefining \% on input line 7326.
-[159]
-LaTeX Info: Redefining \. on input line 7377.
-LaTeX Info: Redefining \% on input line 7377.
- [160]
-LaTeX Info: Redefining \. on input line 7432.
-LaTeX Info: Redefining \% on input line 7432.
+LaTeX Info: Redefining \. on input line 7325.
+LaTeX Info: Redefining \% on input line 7325.
+[160]
+LaTeX Info: Redefining \. on input line 7375.
+LaTeX Info: Redefining \% on input line 7375.
  [161]
+LaTeX Info: Redefining \. on input line 7431.
+LaTeX Info: Redefining \% on input line 7431.
+ [162]
 Underfull \hbox (badness 10000) in paragraph at lines 7492--7492
 \T1/cmr/bx/n/17.28 CIÓN|
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 7495--7495
-|[]\T1/cmr/bx/n/14.4 Ejercicio 1: Ar-queo-lo-gía La-bo-ral|
- []
-
-LaTeX Info: Redefining \. on input line 7499.
-LaTeX Info: Redefining \% on input line 7499.
-[162]
-Underfull \hbox (badness 2547) in paragraph at lines 7519--7519
-|[]\T1/cmr/bx/n/14.4 Ejercicio 2: In-ven-ta-rio de For-ta-le-zas vs. Pa-sio-nes
-|
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7537--7537
-|[]\T1/cmr/bx/n/14.4 Ejercicio 3: Test de Ne-ce-si-da-des La-bo-ra-les|
- []
-
-LaTeX Info: Redefining \. on input line 7557.
-LaTeX Info: Redefining \% on input line 7557.
+LaTeX Info: Redefining \. on input line 7495.
+LaTeX Info: Redefining \% on input line 7495.
 [163]
-Underfull \hbox (badness 10000) in paragraph at lines 7561--7561
-|[]\T1/cmr/bx/n/14.4 Ejercicio 4: Di-se-ño de Rol Ideal|
+Underfull \hbox (badness 10000) in paragraph at lines 7495--7495
+|[]\T1/cmr/bx/n/14.4 Ejercicio 1: Ar-queo-lo-gía La-bo-ral (30 mi-nu-tos)|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7519--7519
+\T1/cmr/bx/n/14.4 nu-tos)|
+ []
+
+LaTeX Info: Redefining \. on input line 7554.
+LaTeX Info: Redefining \% on input line 7554.
+[164]
+Underfull \hbox (badness 5817) in paragraph at lines 7561--7561
+|[]\T1/cmr/bx/n/14.4 Ejercicio 4: Di-se-ño de Rol Ideal (40 mi-nu-tos)|
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7598--7598
-|[]\T1/cmr/bx/n/14.4 Ejercicio 5: Plan de Tran-si-ción|
+|[]\T1/cmr/bx/n/14.4 Ejercicio 5: Plan de Tran-si-ción (30 mi-nu-tos)|
  []
 
-LaTeX Info: Redefining \. on input line 7617.
-LaTeX Info: Redefining \% on input line 7617.
-[164]
+LaTeX Info: Redefining \. on input line 7608.
+LaTeX Info: Redefining \% on input line 7608.
+[165]
 Overfull \hbox (10.04634pt too wide) in paragraph at lines 7628--7628
 |[]\T1/cmr/bx/n/17.28 PARTE IV: OR-GA-NI-ZA-CIO-NES QUE EN-TIEN-
  []
@@ -2519,9 +2506,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 7650--7650
 |[]\T1/cmr/bx/n/17.28 CONCLUSIÓN|
  []
 
-LaTeX Info: Redefining \. on input line 7663.
-LaTeX Info: Redefining \% on input line 7663.
-[165]
+LaTeX Info: Redefining \. on input line 7654.
+LaTeX Info: Redefining \% on input line 7654.
+[166]
 Underfull \hbox (badness 10000) in paragraph at lines 7671--7671
 |[]\T1/cmr/bx/n/17.28 RECURSOS|
  []
@@ -2548,7 +2535,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7696--7696
 
 LaTeX Info: Redefining \. on input line 7706.
 LaTeX Info: Redefining \% on input line 7706.
-[166] (charlas_completas_mejorado.aux
+[167] (charlas_completas_mejorado.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -2558,12 +2545,12 @@ L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `charlas_completas_mejorado.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 206FC301E08DEB043E575D919D59989D;87817.
+(rerunfilecheck)             Checksum: 7F55B4678D1DBEC47DC9E431C42D22A0;97069.
  ) 
 Here is how much of TeX's memory you used:
- 13323 strings out of 474486
- 208557 string characters out of 5743755
- 1947542 words of memory out of 5000000
+ 13324 strings out of 474486
+ 208565 string characters out of 5743755
+ 1948542 words of memory out of 5000000
  34724 multiletter control sequences out of 15000+600000
  573183 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2585,9 +2572,9 @@ Users\devin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk
 ><C:/Users/devin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mr12.pfb><C:/Users/devin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb>
-Output written on charlas_completas_mejorado.pdf (167 pages, 995789 bytes).
+Output written on charlas_completas_mejorado.pdf (168 pages, 1013670 bytes).
 PDF statistics:
- 3626 PDF objects out of 4296 (max. 8388607)
- 734 named destinations out of 1000 (max. 500000)
+ 3652 PDF objects out of 4296 (max. 8388607)
+ 735 named destinations out of 1000 (max. 500000)
  2793 words of extra memory for PDF output out of 10000 (max. 10000000)
 

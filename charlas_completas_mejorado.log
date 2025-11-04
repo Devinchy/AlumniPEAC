@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.31)  4 NOV 2025 17:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.31)  4 NOV 2025 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -332,7 +332,19 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 34.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks25
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
@@ -345,26 +357,26 @@ LaTeX Info: Redefining \% on input line 11.
 )
 \openout1 = `charlas_completas_mejorado.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -407,12 +419,12 @@ LaTeX Info: Redefining \% on input line 68.
 \scratchbox=\box59
 \nofMPsegments=\count293
 \nofMParguments=\count294
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks26
 \MPscratchCnt=\count295
 \MPscratchDim=\dimen177
 \MPnumerator=\count296
 \makeMPintoPDFobject=\count297
-\everyMPtoPDFconversion=\toks26
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -422,7 +434,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 68.
+Package hyperref Info: Link coloring ON on input line 75.
 
 (./charlas_completas_mejorado.out) (./charlas_completas_mejorado.out)
 \@outlinefile=\write3
@@ -431,22 +443,22 @@ Package hyperref Info: Link coloring ON on input line 68.
 
 Couldn't patch \ttl@straight@ii
 Couldn't patch \ttl@straight@ii
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 71.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 71.
-[1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./charlas_completas_mejorado.toc
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./charlas_completas_mejor
+ado.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -475,1293 +487,528 @@ LaTeX Info: Redefining \% on input line 261.
 LaTeX Info: Redefining \. on input line 308.
 LaTeX Info: Redefining \% on input line 308.
  [7]
-Overfull \hbox (0.85353pt too wide) in paragraph at lines 341--341
- [][] [][][]\T1/cmr/m/n/12 Parte 1: El Pro-ble-ma Fun-da-men-tal^^VEstructura L
-a-bo-ral vs. Men- 
- []
-
 LaTeX Info: Redefining \. on input line 357.
 LaTeX Info: Redefining \% on input line 357.
-[8])
+ [8])
 \tf@toc=\write4
 \openout4 = `charlas_completas_mejorado.toc'.
 
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
  [9]
 Cap\'{\i }tulo 1.
 [10
 
 ]
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
  [11]
-Overfull \hbox (3.08485pt too wide) in paragraph at lines 119--120
-\T1/cmr/m/n/12 ta-da a adul-tos su-per-do-ta-dos es muy re-co-men-da-ble. Mo-de
--los co-mo la te-ra-pia cognitivo-
- []
-
-LaTeX Info: Redefining \. on input line 124.
-LaTeX Info: Redefining \% on input line 124.
-[12]
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+ [12]
+LaTeX Info: Redefining \. on input line 144.
+LaTeX Info: Redefining \% on input line 144.
  [13]
 Cap\'{\i }tulo 2.
-
-Overfull \hbox (28.21611pt too wide) in paragraph at lines 140--140
-|\T1/cmr/bx/n/24.88 Comorbilidad y Neu-ro-di-ver-si-dad en Adul-
- []
-
 [14
 
 ]
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
+LaTeX Info: Redefining \. on input line 222.
+LaTeX Info: Redefining \% on input line 222.
  [15]
-LaTeX Info: Redefining \. on input line 258.
-LaTeX Info: Redefining \% on input line 258.
+LaTeX Info: Redefining \. on input line 265.
+LaTeX Info: Redefining \% on input line 265.
  [16]
-LaTeX Info: Redefining \. on input line 303.
-LaTeX Info: Redefining \% on input line 303.
+LaTeX Info: Redefining \. on input line 310.
+LaTeX Info: Redefining \% on input line 310.
  [17]
-LaTeX Info: Redefining \. on input line 358.
-LaTeX Info: Redefining \% on input line 358.
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
  [18]
-Overfull \hbox (1.72815pt too wide) in paragraph at lines 377--378
-[]\T1/cmr/bx/n/12 Posible aco-mo-da-cio-nes la-bo-ra-les/educativas\T1/cmr/m/n/
-12 : Pa-ra apo-yar de-fi-cits MIEN-TRAS
- []
-
-
-Overfull \hbox (74.22588pt too wide) in alignment at lines 390--394
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (74.22588pt too wide) in alignment at lines 394--398
- [] [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 399--399
-[]|\T1/cmr/m/n/10.95 Inconstante: di-fi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
-[]|\T1/cmr/m/n/10.95 Focalizada en
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 401--401
-[]|\T1/cmr/m/n/10.95 Suele pre-sen-tar-se
- []
-
-
-Underfull \hbox (badness 3657) in paragraph at lines 401--401
-\T1/cmr/m/n/10.95 des-de la in-fan-cia
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 401--402
-[]|\T1/cmr/m/n/10.95 Puede apa-re-cer o
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
-[]|\T1/cmr/m/n/10.95 Dependencia del
- []
-
-
-Underfull \hbox (badness 3199) in paragraph at lines 403--403
-[]|\T1/cmr/m/n/10.95 Muy de-pen-dien-te:
- []
-
-
-Underfull \hbox (badness 2617) in paragraph at lines 403--403
-\T1/cmr/m/n/10.95 nos po-co es-ti-mu-
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 403--403
-[]|\T1/cmr/m/n/10.95 Menos de-pen-dien-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
-\T1/cmr/m/n/10.95 te: la di-fi-cul-tad
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 403--403
-[]|\T1/cmr/m/n/10.95 Dependiente del
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
-[]|\T1/cmr/m/n/10.95 Frecuente (ac-tos
- []
-
-
-Underfull \hbox (badness 3088) in paragraph at lines 407--407
-[]|\T1/cmr/m/n/10.95 Alta (so-bre-ex-ci-ta-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 407--407
-[]|\T1/cmr/m/n/10.95 Frecuente (des-re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 407--407
-\T1/cmr/m/n/10.95 gu-la-ción emo-cio-
- []
-
-
-Underfull \hbox (badness 4569) in paragraph at lines 409--409
-[]|\T1/cmr/m/n/10.95 En in-tere-ses res-
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 409--410
-\T1/cmr/m/n/10.95 mia o fi-ja-ción en
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
-[]|\T1/cmr/m/n/10.95 Comportamiento
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
-[]|\T1/cmr/m/n/10.95 Elige re-la-cio-nar-se
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
-[]|\T1/cmr/m/n/10.95 Dificultad neu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--411
-\T1/cmr/m/n/10.95 ro-bio-ló-gi-ca pa-ra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
-[]|\T1/cmr/m/n/10.95 Evitación so-cial
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 413--413
-[]|\T1/cmr/m/n/10.95 Necesidad rí-gi-da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
-[]|\T1/cmr/m/n/10.95 Puede de-sa-rro-llar
- []
-
-
-Underfull \hbox (badness 6825) in paragraph at lines 415--415
-[]|\T1/cmr/m/n/10.95 Soporte y adap-
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 415--415
-\T1/cmr/m/n/10.95 ta-cio-nes; in-ter-ven-
- []
-
-
-Underfull \hbox (badness 3088) in paragraph at lines 415--416
-\T1/cmr/m/n/10.95 me-di-ca-ción sue-len
- []
-
-
-Overfull \hbox (74.22588pt too wide) in alignment at lines 398--417
- [] [] [] [] [] 
- []
-
-LaTeX Info: Redefining \. on input line 417.
-LaTeX Info: Redefining \% on input line 417.
-[19]
-Overfull \hbox (2.80916pt too wide) in paragraph at lines 421--421
-|[]\T1/cmr/bx/n/17.28 PARTE III: GUÍA PRÁC-TI-CA DE DE-TEC-CIÓN| 
- []
-
-LaTeX Info: Redefining \. on input line 445.
-LaTeX Info: Redefining \% on input line 445.
-[20]
-LaTeX Info: Redefining \. on input line 498.
-LaTeX Info: Redefining \% on input line 498.
+LaTeX Info: Redefining \. on input line 425.
+LaTeX Info: Redefining \% on input line 425.
+ [19]
+LaTeX Info: Redefining \. on input line 453.
+LaTeX Info: Redefining \% on input line 453.
+ [20]
+LaTeX Info: Redefining \. on input line 506.
+LaTeX Info: Redefining \% on input line 506.
  [21]
-LaTeX Info: Redefining \. on input line 544.
-LaTeX Info: Redefining \% on input line 544.
+LaTeX Info: Redefining \. on input line 552.
+LaTeX Info: Redefining \% on input line 552.
  [22]
 Cap\'{\i }tulo 3.
-
-Overfull \hbox (17.7524pt too wide) in paragraph at lines 547--547
-|\T1/cmr/bx/n/24.88 Creatividad, Bús-que-da de Sen-ti-do y Rea-
- []
-
 [23
 
 ]
-LaTeX Info: Redefining \. on input line 629.
-LaTeX Info: Redefining \% on input line 629.
+LaTeX Info: Redefining \. on input line 637.
+LaTeX Info: Redefining \% on input line 637.
  [24]
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
+LaTeX Info: Redefining \. on input line 689.
+LaTeX Info: Redefining \% on input line 689.
  [25]
-LaTeX Info: Redefining \. on input line 727.
-LaTeX Info: Redefining \% on input line 727.
+LaTeX Info: Redefining \. on input line 735.
+LaTeX Info: Redefining \% on input line 735.
  [26]
-LaTeX Info: Redefining \. on input line 780.
-LaTeX Info: Redefining \% on input line 780.
+LaTeX Info: Redefining \. on input line 788.
+LaTeX Info: Redefining \% on input line 788.
  [27]
-LaTeX Info: Redefining \. on input line 840.
-LaTeX Info: Redefining \% on input line 840.
+LaTeX Info: Redefining \. on input line 848.
+LaTeX Info: Redefining \% on input line 848.
  [28]
-LaTeX Info: Redefining \. on input line 910.
-LaTeX Info: Redefining \% on input line 910.
+LaTeX Info: Redefining \. on input line 918.
+LaTeX Info: Redefining \% on input line 918.
  [29]
-LaTeX Info: Redefining \. on input line 970.
-LaTeX Info: Redefining \% on input line 970.
+LaTeX Info: Redefining \. on input line 978.
+LaTeX Info: Redefining \% on input line 978.
  [30]
-Overfull \hbox (24.9822pt too wide) in paragraph at lines 970--971
-[]\T1/cmr/m/n/12 ``Podría usar mi ta-len-to/inteligencia/creatividad pa-ra con-
-tri-buir a [cau-sa/problema/persona]
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1014.
-
-Underfull \hbox (badness 1337) in paragraph at lines 1022--1022
-[]\T1/cmr/bx/n/10.95 Carrera in-sa-tis-fac-to-ria + sin
- []
-
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
-[31]
-LaTeX Info: Redefining \. on input line 1074.
-LaTeX Info: Redefining \% on input line 1074.
+LaTeX Info: Redefining \. on input line 1035.
+LaTeX Info: Redefining \% on input line 1035.
+ [31]
+LaTeX Info: Redefining \. on input line 1082.
+LaTeX Info: Redefining \% on input line 1082.
  [32]
-LaTeX Info: Redefining \. on input line 1095.
-LaTeX Info: Redefining \% on input line 1095.
+LaTeX Info: Redefining \. on input line 1103.
+LaTeX Info: Redefining \% on input line 1103.
  [33]
 Cap\'{\i }tulo 4.
 [34
 
 ]
-LaTeX Info: Redefining \. on input line 1194.
-LaTeX Info: Redefining \% on input line 1194.
+LaTeX Info: Redefining \. on input line 1202.
+LaTeX Info: Redefining \% on input line 1202.
  [35]
-LaTeX Info: Redefining \. on input line 1249.
-LaTeX Info: Redefining \% on input line 1249.
+LaTeX Info: Redefining \. on input line 1257.
+LaTeX Info: Redefining \% on input line 1257.
  [36]
-LaTeX Info: Redefining \. on input line 1303.
-LaTeX Info: Redefining \% on input line 1303.
+LaTeX Info: Redefining \. on input line 1311.
+LaTeX Info: Redefining \% on input line 1311.
  [37]
-LaTeX Info: Redefining \. on input line 1352.
-LaTeX Info: Redefining \% on input line 1352.
+LaTeX Info: Redefining \. on input line 1360.
+LaTeX Info: Redefining \% on input line 1360.
  [38]
-LaTeX Info: Redefining \. on input line 1410.
-LaTeX Info: Redefining \% on input line 1410.
+LaTeX Info: Redefining \. on input line 1418.
+LaTeX Info: Redefining \% on input line 1418.
  [39]
-Underfull \hbox (badness 2828) in paragraph at lines 1429--1429
-[]|\T1/cmr/m/n/10.95 Resolución de pro-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
-[]|\T1/cmr/m/n/10.95 Deadlines ex-ter-nos, sis-te-ma de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1433--1433
-[]|\T1/cmr/m/n/10.95 Dificultad cam-biar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1435
-[]|\T1/cmr/m/n/10.95 Impulsividad, de-ci-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1448
-[]|\T1/cmr/m/n/10.95 Pensamiento sis-te-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1448
-[]|\T1/cmr/m/n/10.95 Rigidez; di-fi-cul-tad
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 1456--1457
-[]|\T1/cmr/m/n/10.95 Claridad de ex-pec-ta-ti-vas; ru-ti-nas
- []
-
-
-Underfull \hbox (badness 5316) in paragraph at lines 1467--1467
-[]|\T1/cmr/m/n/10.95 Pensamiento ver-bal
- []
-
-
-Underfull \hbox (badness 2717) in paragraph at lines 1471--1471
-[]|\T1/cmr/m/n/10.95 Creatividad lin-güís-
- []
-
-
-Underfull \hbox (badness 1348) in paragraph at lines 1473--1473
-[]|\T1/cmr/m/n/10.95 Lectura de ins-truc-
- []
-
-LaTeX Info: Redefining \. on input line 1475.
-LaTeX Info: Redefining \% on input line 1475.
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
-[]|\T1/cmr/m/n/10.95 Canalizar crea-ti-vi-dad; realidad-
- []
-
-LaTeX Info: Redefining \. on input line 1534.
-LaTeX Info: Redefining \% on input line 1534.
-[41]
-LaTeX Info: Redefining \. on input line 1596.
-LaTeX Info: Redefining \% on input line 1596.
+LaTeX Info: Redefining \. on input line 1483.
+LaTeX Info: Redefining \% on input line 1483.
+ [40]
+LaTeX Info: Redefining \. on input line 1542.
+LaTeX Info: Redefining \% on input line 1542.
+ [41]
+LaTeX Info: Redefining \. on input line 1604.
+LaTeX Info: Redefining \% on input line 1604.
  [42]
-LaTeX Info: Redefining \. on input line 1650.
-LaTeX Info: Redefining \% on input line 1650.
+LaTeX Info: Redefining \. on input line 1658.
+LaTeX Info: Redefining \% on input line 1658.
  [43]
-Overfull \hbox (25.2405pt too wide) in paragraph at lines 1675--1676
+Overfull \hbox (25.2405pt too wide) in paragraph at lines 1683--1684
 []\T1/cmr/bx/n/10.95 Especifica\T1/cmr/m/n/10.95 : Quie-res eva-lua-ción de su-
 per-do-ta-ción + eva-lua-ción pa-ra TDAH/autismo/dificultades
  []
 
-LaTeX Info: Redefining \. on input line 1698.
-LaTeX Info: Redefining \% on input line 1698.
+LaTeX Info: Redefining \. on input line 1706.
+LaTeX Info: Redefining \% on input line 1706.
 [44]
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
+LaTeX Info: Redefining \. on input line 1722.
+LaTeX Info: Redefining \% on input line 1722.
  [45]
 Cap\'{\i }tulo 5.
 [46
 
 ]
-LaTeX Info: Redefining \. on input line 1808.
-LaTeX Info: Redefining \% on input line 1808.
+LaTeX Info: Redefining \. on input line 1816.
+LaTeX Info: Redefining \% on input line 1816.
  [47]
-LaTeX Info: Redefining \. on input line 1867.
-LaTeX Info: Redefining \% on input line 1867.
+LaTeX Info: Redefining \. on input line 1875.
+LaTeX Info: Redefining \% on input line 1875.
  [48]
-LaTeX Info: Redefining \. on input line 1924.
-LaTeX Info: Redefining \% on input line 1924.
+LaTeX Info: Redefining \. on input line 1932.
+LaTeX Info: Redefining \% on input line 1932.
  [49]
-LaTeX Info: Redefining \. on input line 1980.
-LaTeX Info: Redefining \% on input line 1980.
+LaTeX Info: Redefining \. on input line 1988.
+LaTeX Info: Redefining \% on input line 1988.
  [50]
-LaTeX Info: Redefining \. on input line 2045.
-LaTeX Info: Redefining \% on input line 2045.
+LaTeX Info: Redefining \. on input line 2053.
+LaTeX Info: Redefining \% on input line 2053.
  [51]
-Overfull \hbox (27.69444pt too wide) in paragraph at lines 2053--2054
-[]\T1/cmr/m/n/10.95 Si tu to-tal es <5 ho-ras/semana en es-ti-mu-la-ción: \T1/c
-mr/bx/n/10.95 es-tás sub-es-ti-mu-la-do. De-pre-sión/aburrimiento
- []
-
-LaTeX Info: Redefining \. on input line 2115.
-LaTeX Info: Redefining \% on input line 2115.
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 2134--2135
-[]\T1/cmr/bx/n/10.95 Costo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2136--2136
-[]\T1/cmr/m/n/10.95 Automate the
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 2136--2136
-\T1/cmr/m/n/10.95 Bo-ring Stuff with
- []
-
-
-Underfull \hbox (badness 3724) in paragraph at lines 2138--2138
-[]\T1/cmr/m/n/10.95 Filosofía es-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2138--2138
-[]\T1/cmr/m/n/10.95 Letters from a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2138--2138
-[]\T1/cmr/m/n/10.95 Coursera
- []
-
-LaTeX Info: Redefining \. on input line 2182.
-LaTeX Info: Redefining \% on input line 2182.
-[53]
-LaTeX Info: Redefining \. on input line 2242.
-LaTeX Info: Redefining \% on input line 2242.
+LaTeX Info: Redefining \. on input line 2123.
+LaTeX Info: Redefining \% on input line 2123.
+ [52]
+LaTeX Info: Redefining \. on input line 2190.
+LaTeX Info: Redefining \% on input line 2190.
+ [53]
+LaTeX Info: Redefining \. on input line 2250.
+LaTeX Info: Redefining \% on input line 2250.
  [54]
-LaTeX Info: Redefining \. on input line 2265.
-LaTeX Info: Redefining \% on input line 2265.
+LaTeX Info: Redefining \. on input line 2273.
+LaTeX Info: Redefining \% on input line 2273.
  [55]
 Cap\'{\i }tulo 6.
 [56
 
 ]
-LaTeX Info: Redefining \. on input line 2350.
-LaTeX Info: Redefining \% on input line 2350.
+LaTeX Info: Redefining \. on input line 2358.
+LaTeX Info: Redefining \% on input line 2358.
  [57]
-LaTeX Info: Redefining \. on input line 2395.
-LaTeX Info: Redefining \% on input line 2395.
+LaTeX Info: Redefining \. on input line 2403.
+LaTeX Info: Redefining \% on input line 2403.
  [58]
-LaTeX Info: Redefining \. on input line 2443.
-LaTeX Info: Redefining \% on input line 2443.
+LaTeX Info: Redefining \. on input line 2451.
+LaTeX Info: Redefining \% on input line 2451.
  [59]
-
-./charlas_completas_mejorado.tex:2484: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2484 >
-         \textit{Â¿QuÃ© es realmente la superdotaciÃ³n? Desmontando 8 mitos ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:2484: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.2484 >
-         \textit{Â¿QuÃ© es realmente la superdotaciÃ³n? Desmontando 8 mitos ...
-Things are pretty mixed up, but I think the worst is over.
-
-LaTeX Info: Redefining \. on input line 2503.
-LaTeX Info: Redefining \% on input line 2503.
-[60]
-
-./charlas_completas_mejorado.tex:2508: LaTeX Error: Unicode character âœ“ (U+27
-13)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2508 âœ“
-           IdentificaciÃ³n temprana (desde edades 3-4 aÃ±os en adelante)
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2510: LaTeX Error: Unicode character âœ“ (U+27
-13)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2510 âœ“
-           EducaciÃ³n diferenciada (enriquecimiento, no simplemente ``mÃ¡s d...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2512: LaTeX Error: Unicode character âœ“ (U+27
-13)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2512 âœ“
-           Apoyo emocional y social (manejar intensidad, sensibilidad, alien...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2514: LaTeX Error: Unicode character âœ“ (U+27
-13)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2514 âœ“
-           ComprensiÃ³n de su diferencia (no patologizaciÃ³n)
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2516: LaTeX Error: Unicode character âœ“ (U+27
-13)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2516 âœ“
-           Acceso equitativo sin barreras de clase, gÃ©nero, etnia
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2520: LaTeX Error: Unicode character âœ— (U+27
-17)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2520 âœ—
-           DepresiÃ³n y ansiedad
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2522: LaTeX Error: Unicode character âœ— (U+27
-17)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2522 âœ—
-           Fracaso acadÃ©mico deliberado (underachievement)
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2524: LaTeX Error: Unicode character âœ— (U+27
-17)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2524 âœ—
-           AlienaciÃ³n social y aislamiento
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2526: LaTeX Error: Unicode character âœ— (U+27
-17)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2526 âœ—
-           SÃ­ndrome del impostor
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./charlas_completas_mejorado.tex:2528: LaTeX Error: Unicode character âœ— (U+27
-17)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2528 âœ—
-           PÃ©rdida de talento para la sociedad
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-LaTeX Info: Redefining \. on input line 2562.
-LaTeX Info: Redefining \% on input line 2562.
-[61]
-LaTeX Info: Redefining \. on input line 2626.
-LaTeX Info: Redefining \% on input line 2626.
+LaTeX Info: Redefining \. on input line 2510.
+LaTeX Info: Redefining \% on input line 2510.
+ [60]
+LaTeX Info: Redefining \. on input line 2571.
+LaTeX Info: Redefining \% on input line 2571.
+ [61]
+LaTeX Info: Redefining \. on input line 2634.
+LaTeX Info: Redefining \% on input line 2634.
  [62]
-LaTeX Info: Redefining \. on input line 2675.
-LaTeX Info: Redefining \% on input line 2675.
+LaTeX Info: Redefining \. on input line 2683.
+LaTeX Info: Redefining \% on input line 2683.
  [63]
-LaTeX Info: Redefining \. on input line 2733.
-LaTeX Info: Redefining \% on input line 2733.
+LaTeX Info: Redefining \. on input line 2742.
+LaTeX Info: Redefining \% on input line 2742.
  [64]
-
-./charlas_completas_mejorado.tex:2769: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2769 >
-         Es mÃ¡s fÃ¡cil creer que son raros que reconocer que simplemente op...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:2769: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.2769 >
-         Es mÃ¡s fÃ¡cil creer que son raros que reconocer que simplemente op...
-Things are pretty mixed up, but I think the worst is over.
-
-
-./charlas_completas_mejorado.tex:2771: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2771 >
-         Es mÃ¡s fÃ¡cil ignorarlos que cambiar un sistema educativo que no f...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:2771: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.2771 >
-         Es mÃ¡s fÃ¡cil ignorarlos que cambiar un sistema educativo que no f...
-Things are pretty mixed up, but I think the worst is over.
-
-
-./charlas_completas_mejorado.tex:2773: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2773 >
-         Pero cada mito que perpetÃºas, es un superdotado que se oculta.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:2773: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.2773 >
-         Pero cada mito que perpetÃºas, es un superdotado que se oculta.
-Things are pretty mixed up, but I think the worst is over.
-
-
-./charlas_completas_mejorado.tex:2775: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2775 >
-         Cada mito que desmontas, es una comprensiÃ³n que crece.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:2775: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.2775 >
-         Cada mito que desmontas, es una comprensiÃ³n que crece.
-Things are pretty mixed up, but I think the worst is over.
-
-
-./charlas_completas_mejorado.tex:2777: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2777 >
-         Elige desmontar.``
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:2777: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.2777 >
-         Elige desmontar.``
-Things are pretty mixed up, but I think the worst is over.
-
-LaTeX Info: Redefining \. on input line 2793.
-LaTeX Info: Redefining \% on input line 2793.
-[65]
-LaTeX Info: Redefining \. on input line 2826.
-LaTeX Info: Redefining \% on input line 2826.
+LaTeX Info: Redefining \. on input line 2799.
+LaTeX Info: Redefining \% on input line 2799.
+ [65]
+LaTeX Info: Redefining \. on input line 2839.
+LaTeX Info: Redefining \% on input line 2839.
  [66]
 Cap\'{\i }tulo 7.
 [67
 
 ]
-LaTeX Info: Redefining \. on input line 2921.
-LaTeX Info: Redefining \% on input line 2921.
+LaTeX Info: Redefining \. on input line 2934.
+LaTeX Info: Redefining \% on input line 2934.
  [68]
-LaTeX Info: Redefining \. on input line 2970.
-LaTeX Info: Redefining \% on input line 2970.
+LaTeX Info: Redefining \. on input line 2983.
+LaTeX Info: Redefining \% on input line 2983.
  [69]
-LaTeX Info: Redefining \. on input line 3021.
-LaTeX Info: Redefining \% on input line 3021.
+LaTeX Info: Redefining \. on input line 3034.
+LaTeX Info: Redefining \% on input line 3034.
  [70]
-LaTeX Info: Redefining \. on input line 3074.
-LaTeX Info: Redefining \% on input line 3074.
+LaTeX Info: Redefining \. on input line 3087.
+LaTeX Info: Redefining \% on input line 3087.
  [71]
-Overfull \hbox (21.3981pt too wide) in paragraph at lines 3117--3117
-|[]\T1/cmr/bx/n/17.28 PARTE II: GUÍA DE AU-TO-EVA-LUA-CIÓN PRÁC-
- []
-
-LaTeX Info: Redefining \. on input line 3120.
-LaTeX Info: Redefining \% on input line 3120.
-[72]
-LaTeX Info: Redefining \. on input line 3170.
-LaTeX Info: Redefining \% on input line 3170.
+LaTeX Info: Redefining \. on input line 3133.
+LaTeX Info: Redefining \% on input line 3133.
+ [72]
+LaTeX Info: Redefining \. on input line 3183.
+LaTeX Info: Redefining \% on input line 3183.
  [73]
-LaTeX Info: Redefining \. on input line 3226.
-LaTeX Info: Redefining \% on input line 3226.
+LaTeX Info: Redefining \. on input line 3239.
+LaTeX Info: Redefining \% on input line 3239.
  [74]
-LaTeX Info: Redefining \. on input line 3284.
-LaTeX Info: Redefining \% on input line 3284.
+LaTeX Info: Redefining \. on input line 3297.
+LaTeX Info: Redefining \% on input line 3297.
  [75]
-LaTeX Info: Redefining \. on input line 3330.
-LaTeX Info: Redefining \% on input line 3330.
+LaTeX Info: Redefining \. on input line 3343.
+LaTeX Info: Redefining \% on input line 3343.
  [76]
-LaTeX Info: Redefining \. on input line 3350.
-LaTeX Info: Redefining \% on input line 3350.
+LaTeX Info: Redefining \. on input line 3363.
+LaTeX Info: Redefining \% on input line 3363.
  [77]
 Cap\'{\i }tulo 8.
 [78
 
 ]
-LaTeX Info: Redefining \. on input line 3444.
-LaTeX Info: Redefining \% on input line 3444.
+LaTeX Info: Redefining \. on input line 3457.
+LaTeX Info: Redefining \% on input line 3457.
  [79]
-LaTeX Info: Redefining \. on input line 3499.
-LaTeX Info: Redefining \% on input line 3499.
+LaTeX Info: Redefining \. on input line 3512.
+LaTeX Info: Redefining \% on input line 3512.
  [80]
-LaTeX Info: Redefining \. on input line 3550.
-LaTeX Info: Redefining \% on input line 3550.
+LaTeX Info: Redefining \. on input line 3563.
+LaTeX Info: Redefining \% on input line 3563.
  [81]
-LaTeX Info: Redefining \. on input line 3614.
-LaTeX Info: Redefining \% on input line 3614.
+LaTeX Info: Redefining \. on input line 3627.
+LaTeX Info: Redefining \% on input line 3627.
  [82]
-LaTeX Info: Redefining \. on input line 3670.
-LaTeX Info: Redefining \% on input line 3670.
+LaTeX Info: Redefining \. on input line 3683.
+LaTeX Info: Redefining \% on input line 3683.
  [83]
-LaTeX Info: Redefining \. on input line 3724.
-LaTeX Info: Redefining \% on input line 3724.
+LaTeX Info: Redefining \. on input line 3737.
+LaTeX Info: Redefining \% on input line 3737.
  [84]
-LaTeX Info: Redefining \. on input line 3785.
-LaTeX Info: Redefining \% on input line 3785.
+LaTeX Info: Redefining \. on input line 3798.
+LaTeX Info: Redefining \% on input line 3798.
  [85]
-LaTeX Info: Redefining \. on input line 3850.
-LaTeX Info: Redefining \% on input line 3850.
+LaTeX Info: Redefining \. on input line 3863.
+LaTeX Info: Redefining \% on input line 3863.
  [86]
-LaTeX Info: Redefining \. on input line 3915.
-LaTeX Info: Redefining \% on input line 3915.
+LaTeX Info: Redefining \. on input line 3928.
+LaTeX Info: Redefining \% on input line 3928.
  [87]
-LaTeX Info: Redefining \. on input line 3963.
-LaTeX Info: Redefining \% on input line 3963.
+LaTeX Info: Redefining \. on input line 3976.
+LaTeX Info: Redefining \% on input line 3976.
  [88]
-LaTeX Info: Redefining \. on input line 3979.
-LaTeX Info: Redefining \% on input line 3979.
+LaTeX Info: Redefining \. on input line 3992.
+LaTeX Info: Redefining \% on input line 3992.
  [89]
 Cap\'{\i }tulo 9.
 [90
 
 ]
-LaTeX Info: Redefining \. on input line 4053.
-LaTeX Info: Redefining \% on input line 4053.
+LaTeX Info: Redefining \. on input line 4066.
+LaTeX Info: Redefining \% on input line 4066.
  [91]
-LaTeX Info: Redefining \. on input line 4104.
-LaTeX Info: Redefining \% on input line 4104.
+LaTeX Info: Redefining \. on input line 4117.
+LaTeX Info: Redefining \% on input line 4117.
  [92]
-LaTeX Info: Redefining \. on input line 4150.
-LaTeX Info: Redefining \% on input line 4150.
+LaTeX Info: Redefining \. on input line 4163.
+LaTeX Info: Redefining \% on input line 4163.
  [93]
-LaTeX Info: Redefining \. on input line 4195.
-LaTeX Info: Redefining \% on input line 4195.
+LaTeX Info: Redefining \. on input line 4208.
+LaTeX Info: Redefining \% on input line 4208.
  [94]
-Overfull \hbox (14.83842pt too wide) in paragraph at lines 4215--4216
-[]\T1/cmr/m/n/10.95 Tasas más al-tas de \T1/cmr/bx/n/10.95 an-sie-dad, de-pre-s
-ión, sui-ci-dio \T1/cmr/m/n/10.95 que su-per-do-ta-dos he-te-ro-se-xua-les/cisg
-énero 
- []
-
-LaTeX Info: Redefining \. on input line 4232.
-LaTeX Info: Redefining \% on input line 4232.
-[95]
-Overfull \hbox (8.2243pt too wide) in paragraph at lines 4252--4252
-|[]\T1/cmr/bx/n/17.28 PARTE II: MAR-CO CON-CEP-TUAL IN-TER-SEC-
- []
-
-LaTeX Info: Redefining \. on input line 4278.
-LaTeX Info: Redefining \% on input line 4278.
-[96]
-Overfull \hbox (7.45183pt too wide) in paragraph at lines 4295--4295
-|[]\T1/cmr/bx/n/17.28 PARTE III: PRO-PUES-TAS DE IN-TER-VEN-CIÓN
- []
-
-LaTeX Info: Redefining \. on input line 4320.
-LaTeX Info: Redefining \% on input line 4320.
-[97]
-LaTeX Info: Redefining \. on input line 4383.
-LaTeX Info: Redefining \% on input line 4383.
+LaTeX Info: Redefining \. on input line 4245.
+LaTeX Info: Redefining \% on input line 4245.
+ [95]
+LaTeX Info: Redefining \. on input line 4291.
+LaTeX Info: Redefining \% on input line 4291.
+ [96]
+LaTeX Info: Redefining \. on input line 4333.
+LaTeX Info: Redefining \% on input line 4333.
+ [97]
+LaTeX Info: Redefining \. on input line 4396.
+LaTeX Info: Redefining \% on input line 4396.
  [98]
-LaTeX Info: Redefining \. on input line 4428.
-LaTeX Info: Redefining \% on input line 4428.
+LaTeX Info: Redefining \. on input line 4441.
+LaTeX Info: Redefining \% on input line 4441.
  [99]
-LaTeX Info: Redefining \. on input line 4475.
-LaTeX Info: Redefining \% on input line 4475.
+LaTeX Info: Redefining \. on input line 4488.
+LaTeX Info: Redefining \% on input line 4488.
  [100]
-LaTeX Info: Redefining \. on input line 4532.
-LaTeX Info: Redefining \% on input line 4532.
+LaTeX Info: Redefining \. on input line 4545.
+LaTeX Info: Redefining \% on input line 4545.
  [101]
-./charlas_completas_mejorado.tex:4560: Undefined control sequence.
-<recently read> \square 
-                        
-l.4560 $\square
-               $ Usa identificaciÃ³n universal (no solo nominaciÃ³n)?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4562: Undefined control sequence.
-<recently read> \square 
-                        
-l.4562 $\square
-               $ Incluye mÃºltiples criterios de identificaciÃ³n (no solo CI)?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4564: Undefined control sequence.
-<recently read> \square 
-                        
-l.4564 $\square
-               $ Tiene representaciÃ³n proporcional de todos los grupos demo...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4566: Undefined control sequence.
-<recently read> \square 
-                        
-l.4566 $\square
-               $ Ofrece evaluaciÃ³n gratuita para familias de bajos ingresos?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4568: Undefined control sequence.
-<recently read> \square 
-                        
-l.4568 $\square
-               $ Tiene docentes formados en competencia cultural?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4570: Undefined control sequence.
-<recently read> \square 
-                        
-l.4570 $\square
-               $ Incluye curriculum culturalmente relevante?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4572: Undefined control sequence.
-<recently read> \square 
-                        
-l.4572 $\square
-               $ Tiene mentores de mÃºltiples identidades?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4574: Undefined control sequence.
-<recently read> \square 
-                        
-l.4574 $\square
-               $ Audita anualmente sus datos de equidad?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4576: Undefined control sequence.
-<recently read> \square 
-                        
-l.4576 $\square
-               $ Tiene polÃ­ticas explÃ­citas contra discriminaciÃ³n?
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./charlas_completas_mejorado.tex:4578: Undefined control sequence.
-<recently read> \square 
-                        
-l.4578 $\square
-               $ Involucra a familias de contextos diversos en diseÃ±o de pr...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./charlas_completas_mejorado.tex:4589: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4589 >
-         Si el contexto estÃ¡ diseÃ±ado para ver solo ciertos tipos de talen...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:4589: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.4589 >
-         Si el contexto estÃ¡ diseÃ±ado para ver solo ciertos tipos de talen...
-Things are pretty mixed up, but I think the worst is over.
-
-
-./charlas_completas_mejorado.tex:4591: LaTeX Error: \begin{document} ended by \
-end{quoting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4591 >
-         Es la justicia.``
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./charlas_completas_mejorado.tex:4591: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.4591 >
-         Es la justicia.``
-Things are pretty mixed up, but I think the worst is over.
-
-LaTeX Info: Redefining \. on input line 4594.
-LaTeX Info: Redefining \% on input line 4594.
-[102]
+LaTeX Info: Redefining \. on input line 4605.
+LaTeX Info: Redefining \% on input line 4605.
+ [102]
+LaTeX Info: Redefining \. on input line 4609.
+LaTeX Info: Redefining \% on input line 4609.
+ [103]
 Cap\'{\i }tulo 10.
-[103
+[104
 
 ]
-LaTeX Info: Redefining \. on input line 4671.
-LaTeX Info: Redefining \% on input line 4671.
- [104]
-LaTeX Info: Redefining \. on input line 4712.
-LaTeX Info: Redefining \% on input line 4712.
+LaTeX Info: Redefining \. on input line 4686.
+LaTeX Info: Redefining \% on input line 4686.
  [105]
-LaTeX Info: Redefining \. on input line 4762.
-LaTeX Info: Redefining \% on input line 4762.
+LaTeX Info: Redefining \. on input line 4727.
+LaTeX Info: Redefining \% on input line 4727.
  [106]
-LaTeX Info: Redefining \. on input line 4805.
-LaTeX Info: Redefining \% on input line 4805.
+LaTeX Info: Redefining \. on input line 4777.
+LaTeX Info: Redefining \% on input line 4777.
  [107]
-Overfull \hbox (19.80492pt too wide) in paragraph at lines 4846--4847
-[]\T1/cmr/bx/n/10.95 Por qué es im-por-tan-te\T1/cmr/m/n/10.95 : Pa-ra en-ten-d
-er CAM-BIO, DE-SA-RRO-LLO, TRA-YEC-TO-RIA^^Vnecesitas
- []
-
-LaTeX Info: Redefining \. on input line 4851.
-LaTeX Info: Redefining \% on input line 4851.
-[108]
-Overfull \hbox (29.03009pt too wide) in paragraph at lines 4857--4858
-[]\T1/cmr/m/n/10.95 Reclutamiento: adul-tos 25-65, diag-nos-ti-ca-dos y no diag
--nos-ti-ca-dos, di-ver-si-dad de cla-se/raza/género 
- []
-
-LaTeX Info: Redefining \. on input line 4898.
-LaTeX Info: Redefining \% on input line 4898.
-[109]
-Overfull \hbox (16.2759pt too wide) in paragraph at lines 4952--4952
-|[]\T1/cmr/bx/n/17.28 PARTE II: PRO-PUES-TAS DE IN-VES-TI-GA-CIÓN
- []
-
-LaTeX Info: Redefining \. on input line 4955.
-LaTeX Info: Redefining \% on input line 4955.
-[110]
-LaTeX Info: Redefining \. on input line 5005.
-LaTeX Info: Redefining \% on input line 5005.
+LaTeX Info: Redefining \. on input line 4820.
+LaTeX Info: Redefining \% on input line 4820.
+ [108]
+LaTeX Info: Redefining \. on input line 4866.
+LaTeX Info: Redefining \% on input line 4866.
+ [109]
+LaTeX Info: Redefining \. on input line 4913.
+LaTeX Info: Redefining \% on input line 4913.
+ [110]
+LaTeX Info: Redefining \. on input line 4970.
+LaTeX Info: Redefining \% on input line 4970.
  [111]
-LaTeX Info: Redefining \. on input line 5053.
-LaTeX Info: Redefining \% on input line 5053.
+LaTeX Info: Redefining \. on input line 5020.
+LaTeX Info: Redefining \% on input line 5020.
  [112]
-LaTeX Info: Redefining \. on input line 5103.
-LaTeX Info: Redefining \% on input line 5103.
+LaTeX Info: Redefining \. on input line 5068.
+LaTeX Info: Redefining \% on input line 5068.
  [113]
-LaTeX Info: Redefining \. on input line 5144.
-LaTeX Info: Redefining \% on input line 5144.
+LaTeX Info: Redefining \. on input line 5118.
+LaTeX Info: Redefining \% on input line 5118.
  [114]
-LaTeX Info: Redefining \. on input line 5191.
-LaTeX Info: Redefining \% on input line 5191.
+LaTeX Info: Redefining \. on input line 5159.
+LaTeX Info: Redefining \% on input line 5159.
  [115]
-LaTeX Info: Redefining \. on input line 5236.
-LaTeX Info: Redefining \% on input line 5236.
- [116]
-LaTeX Info: Redefining \. on input line 5277.
-LaTeX Info: Redefining \% on input line 5277.
+LaTeX Info: Redefining \. on input line 5206.
+LaTeX Info: Redefining \% on input line 5206.
+
+[116]
+LaTeX Info: Redefining \. on input line 5251.
+LaTeX Info: Redefining \% on input line 5251.
  [117]
+LaTeX Info: Redefining \. on input line 5292.
+LaTeX Info: Redefining \% on input line 5292.
+ [118]
 Cap\'{\i }tulo 11.
-[118
+[119
 
 ]
-LaTeX Info: Redefining \. on input line 5366.
-LaTeX Info: Redefining \% on input line 5366.
- [119]
-LaTeX Info: Redefining \. on input line 5422.
-LaTeX Info: Redefining \% on input line 5422.
+LaTeX Info: Redefining \. on input line 5381.
+LaTeX Info: Redefining \% on input line 5381.
  [120]
-LaTeX Info: Redefining \. on input line 5486.
-LaTeX Info: Redefining \% on input line 5486.
+LaTeX Info: Redefining \. on input line 5437.
+LaTeX Info: Redefining \% on input line 5437.
  [121]
-LaTeX Info: Redefining \. on input line 5570.
-LaTeX Info: Redefining \% on input line 5570.
+LaTeX Info: Redefining \. on input line 5501.
+LaTeX Info: Redefining \% on input line 5501.
  [122]
-LaTeX Info: Redefining \. on input line 5629.
-LaTeX Info: Redefining \% on input line 5629.
+LaTeX Info: Redefining \. on input line 5585.
+LaTeX Info: Redefining \% on input line 5585.
  [123]
-LaTeX Info: Redefining \. on input line 5682.
-LaTeX Info: Redefining \% on input line 5682.
+LaTeX Info: Redefining \. on input line 5644.
+LaTeX Info: Redefining \% on input line 5644.
  [124]
-LaTeX Info: Redefining \. on input line 5725.
-LaTeX Info: Redefining \% on input line 5725.
+LaTeX Info: Redefining \. on input line 5697.
+LaTeX Info: Redefining \% on input line 5697.
  [125]
+LaTeX Info: Redefining \. on input line 5740.
+LaTeX Info: Redefining \% on input line 5740.
+ [126]
 Cap\'{\i }tulo 12.
-[126
+[127
 
 ]
-LaTeX Info: Redefining \. on input line 5832.
-LaTeX Info: Redefining \% on input line 5832.
- [127]
-LaTeX Info: Redefining \. on input line 5879.
-LaTeX Info: Redefining \% on input line 5879.
+LaTeX Info: Redefining \. on input line 5847.
+LaTeX Info: Redefining \% on input line 5847.
  [128]
-LaTeX Info: Redefining \. on input line 5929.
-LaTeX Info: Redefining \% on input line 5929.
+LaTeX Info: Redefining \. on input line 5894.
+LaTeX Info: Redefining \% on input line 5894.
  [129]
-LaTeX Info: Redefining \. on input line 5986.
-LaTeX Info: Redefining \% on input line 5986.
+LaTeX Info: Redefining \. on input line 5944.
+LaTeX Info: Redefining \% on input line 5944.
  [130]
-LaTeX Info: Redefining \. on input line 6038.
-LaTeX Info: Redefining \% on input line 6038.
+LaTeX Info: Redefining \. on input line 6001.
+LaTeX Info: Redefining \% on input line 6001.
  [131]
-LaTeX Info: Redefining \. on input line 6088.
-LaTeX Info: Redefining \% on input line 6088.
+LaTeX Info: Redefining \. on input line 6053.
+LaTeX Info: Redefining \% on input line 6053.
  [132]
-LaTeX Info: Redefining \. on input line 6141.
-LaTeX Info: Redefining \% on input line 6141.
+LaTeX Info: Redefining \. on input line 6103.
+LaTeX Info: Redefining \% on input line 6103.
  [133]
-Overfull \hbox (8.86542pt too wide) in paragraph at lines 6200--6200
-|[]\T1/cmr/bx/n/17.28 PARTE V: MAR-CO NOR-MA-TI-VO - RE-FE-REN-
- []
+LaTeX Info: Redefining \. on input line 6156.
+LaTeX Info: Redefining \% on input line 6156.
+ [134]
+LaTeX Info: Redefining \. on input line 6217.
+LaTeX Info: Redefining \% on input line 6217.
+ [135]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+223.
 
-LaTeX Info: Redefining \. on input line 6202.
-LaTeX Info: Redefining \% on input line 6202.
-[134]
-Overfull \hbox (15.65663pt too wide) in paragraph at lines 6211--6212
-[]\T1/cmr/bx/n/10.95 Fundación El Mun-do del Su-per-do-ta-do\T1/cmr/m/n/10.95 :
- https://www.fundacionelmundodelsuperdotado.es 
- []
-
-LaTeX Info: Redefining \. on input line 6253.
-LaTeX Info: Redefining \% on input line 6253.
-[135]
-LaTeX Info: Redefining \. on input line 6278.
-LaTeX Info: Redefining \% on input line 6278.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Info: Redefining \. on input line 6266.
+LaTeX Info: Redefining \% on input line 6266.
  [136]
+LaTeX Info: Redefining \. on input line 6293.
+LaTeX Info: Redefining \% on input line 6293.
+ [137]
 Cap\'{\i }tulo 13.
-
-Overfull \hbox (12.32184pt too wide) in paragraph at lines 6281--6281
-|\T1/cmr/bx/n/24.88 Relaciones Ín-ti-mas y So-cia-les en la Adul-
- []
-
-[137
+[138
 
 ]
-LaTeX Info: Redefining \. on input line 6365.
-LaTeX Info: Redefining \% on input line 6365.
- [138]
-Overfull \hbox (8.38345pt too wide) in paragraph at lines 6388--6389
-\T1/cmr/m/n/10.95 nes. Pe-ro en co-sas cla-ve^^Vvalores, sen-ti-do del hu-mor, 
-cier-ta sen-si-bi-li-dad emo-cio-nal^^Vnecesitáis
- []
-
-LaTeX Info: Redefining \. on input line 6413.
-LaTeX Info: Redefining \% on input line 6413.
-[139]
-LaTeX Info: Redefining \. on input line 6467.
-LaTeX Info: Redefining \% on input line 6467.
+LaTeX Info: Redefining \. on input line 6380.
+LaTeX Info: Redefining \% on input line 6380.
+ [139]
+LaTeX Info: Redefining \. on input line 6428.
+LaTeX Info: Redefining \% on input line 6428.
  [140]
-LaTeX Info: Redefining \. on input line 6517.
-LaTeX Info: Redefining \% on input line 6517.
+LaTeX Info: Redefining \. on input line 6482.
+LaTeX Info: Redefining \% on input line 6482.
  [141]
-LaTeX Info: Redefining \. on input line 6574.
-LaTeX Info: Redefining \% on input line 6574.
+LaTeX Info: Redefining \. on input line 6532.
+LaTeX Info: Redefining \% on input line 6532.
  [142]
-LaTeX Info: Redefining \. on input line 6634.
-LaTeX Info: Redefining \% on input line 6634.
+LaTeX Info: Redefining \. on input line 6589.
+LaTeX Info: Redefining \% on input line 6589.
  [143]
-LaTeX Info: Redefining \. on input line 6689.
-LaTeX Info: Redefining \% on input line 6689.
+LaTeX Info: Redefining \. on input line 6649.
+LaTeX Info: Redefining \% on input line 6649.
  [144]
-Overfull \hbox (1.09413pt too wide) in paragraph at lines 6718--6718
-|[]\T1/cmr/bx/n/17.28 PARTE IV: RE-CUR-SOS Y ES-TRA-TE-GIAS PA-
- []
-
-LaTeX Info: Redefining \. on input line 6744.
-LaTeX Info: Redefining \% on input line 6744.
-[145]
-Overfull \hbox (10.333pt too wide) in paragraph at lines 6767--6767
-|[]\T1/cmr/bx/n/17.28 PARTE V: RE-FLE-XIO-NES Y PRE-GUN-TAS PA-
- []
-
-LaTeX Info: Redefining \. on input line 6801.
-LaTeX Info: Redefining \% on input line 6801.
-[146]
-LaTeX Info: Redefining \. on input line 6846.
-LaTeX Info: Redefining \% on input line 6846.
+LaTeX Info: Redefining \. on input line 6704.
+LaTeX Info: Redefining \% on input line 6704.
+ [145]
+LaTeX Info: Redefining \. on input line 6759.
+LaTeX Info: Redefining \% on input line 6759.
+ [146]
+LaTeX Info: Redefining \. on input line 6816.
+LaTeX Info: Redefining \% on input line 6816.
  [147]
-LaTeX Info: Redefining \. on input line 6868.
-LaTeX Info: Redefining \% on input line 6868.
+LaTeX Info: Redefining \. on input line 6861.
+LaTeX Info: Redefining \% on input line 6861.
  [148]
+LaTeX Info: Redefining \. on input line 6883.
+LaTeX Info: Redefining \% on input line 6883.
+ [149]
 Cap\'{\i }tulo 14.
-
-Overfull \hbox (26.94815pt too wide) in paragraph at lines 6871--6871
-|\T1/cmr/bx/n/24.88 Sobreexcitabilidad Emo-cio-nal y Da-brows-
- []
-
-[149
+[150
 
 ]
-LaTeX Info: Redefining \. on input line 6945.
-LaTeX Info: Redefining \% on input line 6945.
- [150]
-LaTeX Info: Redefining \. on input line 6987.
-LaTeX Info: Redefining \% on input line 6987.
+LaTeX Info: Redefining \. on input line 6960.
+LaTeX Info: Redefining \% on input line 6960.
  [151]
-LaTeX Info: Redefining \. on input line 7034.
-LaTeX Info: Redefining \% on input line 7034.
+LaTeX Info: Redefining \. on input line 7002.
+LaTeX Info: Redefining \% on input line 7002.
  [152]
-LaTeX Info: Redefining \. on input line 7081.
-LaTeX Info: Redefining \% on input line 7081.
+LaTeX Info: Redefining \. on input line 7049.
+LaTeX Info: Redefining \% on input line 7049.
  [153]
-Overfull \hbox (4.91493pt too wide) in paragraph at lines 7090--7090
-|[]\T1/cmr/bx/n/17.28 PARTE III: EJER-CI-CIOS PRÁC-TI-COS DE AU-
- []
-
-LaTeX Info: Redefining \. on input line 7128.
-LaTeX Info: Redefining \% on input line 7128.
-[154]
-LaTeX Info: Redefining \. on input line 7171.
-LaTeX Info: Redefining \% on input line 7171.
+LaTeX Info: Redefining \. on input line 7096.
+LaTeX Info: Redefining \% on input line 7096.
+ [154]
+LaTeX Info: Redefining \. on input line 7143.
+LaTeX Info: Redefining \% on input line 7143.
  [155]
-LaTeX Info: Redefining \. on input line 7234.
-LaTeX Info: Redefining \% on input line 7234.
+LaTeX Info: Redefining \. on input line 7186.
+LaTeX Info: Redefining \% on input line 7186.
  [156]
-LaTeX Info: Redefining \. on input line 7247.
-LaTeX Info: Redefining \% on input line 7247.
+LaTeX Info: Redefining \. on input line 7249.
+LaTeX Info: Redefining \% on input line 7249.
  [157]
+LaTeX Info: Redefining \. on input line 7262.
+LaTeX Info: Redefining \% on input line 7262.
+ [158]
 Cap\'{\i }tulo 15.
-[158
+[159
 
 ]
-Overfull \hbox (37.43086pt too wide) in paragraph at lines 7331--7331
+Overfull \hbox (37.43086pt too wide) in paragraph at lines 7346--7346
 |[]\T1/cmr/bx/n/14.4 Parte 2: La Cri-sis de Elec-ción de Ca-rre-ra^^VMultipoten
 cialidad
  []
 
-LaTeX Info: Redefining \. on input line 7337.
-LaTeX Info: Redefining \% on input line 7337.
-[159]
-LaTeX Info: Redefining \. on input line 7397.
-LaTeX Info: Redefining \% on input line 7397.
- [160]
-LaTeX Info: Redefining \. on input line 7445.
-LaTeX Info: Redefining \% on input line 7445.
+LaTeX Info: Redefining \. on input line 7352.
+LaTeX Info: Redefining \% on input line 7352.
+[160]
+LaTeX Info: Redefining \. on input line 7412.
+LaTeX Info: Redefining \% on input line 7412.
  [161]
-LaTeX Info: Redefining \. on input line 7496.
-LaTeX Info: Redefining \% on input line 7496.
+LaTeX Info: Redefining \. on input line 7460.
+LaTeX Info: Redefining \% on input line 7460.
  [162]
-Overfull \hbox (24.94315pt too wide) in paragraph at lines 7507--7508
-[]\T1/cmr/bx/n/10.95 Full-time en una em-pre-sa que va-lo-ra su-per-do-ta-dos \
-T1/cmr/m/n/10.95 (BB-VA, Goo-gle, star-tups tech^^Vlugares
- []
-
-LaTeX Info: Redefining \. on input line 7547.
-LaTeX Info: Redefining \% on input line 7547.
-[163]
-LaTeX Info: Redefining \. on input line 7606.
-LaTeX Info: Redefining \% on input line 7606.
+LaTeX Info: Redefining \. on input line 7511.
+LaTeX Info: Redefining \% on input line 7511.
+ [163]
+LaTeX Info: Redefining \. on input line 7562.
+LaTeX Info: Redefining \% on input line 7562.
  [164]
-LaTeX Info: Redefining \. on input line 7660.
-LaTeX Info: Redefining \% on input line 7660.
+LaTeX Info: Redefining \. on input line 7621.
+LaTeX Info: Redefining \% on input line 7621.
  [165]
-Overfull \hbox (10.04634pt too wide) in paragraph at lines 7680--7680
-|[]\T1/cmr/bx/n/17.28 PARTE IV: OR-GA-NI-ZA-CIO-NES QUE EN-TIEN-
- []
-
-LaTeX Info: Redefining \. on input line 7706.
-LaTeX Info: Redefining \% on input line 7706.
-[166]
-LaTeX Info: Redefining \. on input line 7756.
-LaTeX Info: Redefining \% on input line 7756.
- [167] (./charlas_completas_mejorado.aux
+LaTeX Info: Redefining \. on input line 7675.
+LaTeX Info: Redefining \% on input line 7675.
+ [166]
+LaTeX Info: Redefining \. on input line 7721.
+LaTeX Info: Redefining \% on input line 7721.
+ [167]
+LaTeX Info: Redefining \. on input line 7771.
+LaTeX Info: Redefining \% on input line 7771.
+ [168]
+LaTeX Info: Redefining \. on input line 7793.
+LaTeX Info: Redefining \% on input line 7793.
+ [169]
+(./charlas_completas_mejorado.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1774,32 +1021,38 @@ ged.
 (rerunfilecheck)             Checksum: 0755DB54014EEFC6069B291329D912CB;89954.
  ) 
 Here is how much of TeX's memory you used:
- 13140 strings out of 476120
- 201267 string characters out of 5793656
+ 13709 strings out of 476120
+ 208217 string characters out of 5793656
  1950975 words of memory out of 5000000
- 34261 multiletter control sequences out of 15000+600000
- 573612 words of font info for 66 fonts, out of 8000000 for 9000
+ 34802 multiletter control sequences out of 15000+600000
+ 580029 words of font info for 90 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  75i,13n,84p,1155b,776s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600
-pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.60
-0pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600.6
-00pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.
-600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095
-.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx144
-0.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx17
-28.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-095.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm
-1200.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecb
-x1200.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
-rm1440.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-cbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on charlas_completas_mejorado.pdf (168 pages, 656829 bytes).
+ </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600
+pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.60
+0pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.6
+00pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.
+600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0600
+.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx109
+5.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti12
+00.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
+000.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
+1000.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcr
+m1200.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+bx1440.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+cbx1728.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecrm1095.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecrm1200.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/e
+c/ecbx1200.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1440.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on charlas_completas_mejorado.pdf (170 pages, 706135 bytes).
 PDF statistics:
- 3661 PDF objects out of 4296 (max. 8388607)
- 2767 compressed objects within 28 object streams
- 747 named destinations out of 1000 (max. 500000)
+ 3825 PDF objects out of 4296 (max. 8388607)
+ 2801 compressed objects within 29 object streams
+ 749 named destinations out of 1000 (max. 500000)
  2849 words of extra memory for PDF output out of 10000 (max. 10000000)
 

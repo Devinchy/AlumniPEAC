@@ -12,6 +12,7 @@
 \usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage{parskip}
+\usepackage{amssymb}
 
 % Configuración de márgenes
 \geometry{
@@ -21,6 +22,12 @@
     bottom=2.5cm,
     headheight=30pt
 }
+
+% Configuración para reducir overfull/underfull warnings
+\tolerance=1000
+\emergencystretch=2em
+\hbadness=10000
+\hfuzz=3pt
 
 % Configuración de hipervínculos
 \hypersetup{
@@ -143,7 +150,7 @@ Para concluir, los adultos con altas capacidades tienen un perfil emocional inte
 
 \section{Panel Multidisciplinar de + Diagnóstico Diferencial}
 
-
+´
 
 \section{PARTE I: CHARLA }
 
@@ -386,8 +393,9 @@ Ejemplo 2: Superdotado + autismo puede significar:
 
 \subsection{Comparación: Superdotación vs. TDAH vs. Autismo vs. Ansiedad}
 \begin{center}
-\small
-\begin{longtable}{|p{3.2cm}|p{3.2cm}|p{3.2cm}|p{3.2cm}|p{3.2cm}|}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{|p{2.6cm}|p{2.85cm}|p{2.85cm}|p{2.85cm}|p{2.85cm}|}
     \hline
     	\textbf{Característica} & \textbf{Superdotación} & \textbf{TDAH} & \textbf{Autismo} & \textbf{Ansiedad} \\
     \hline
@@ -396,23 +404,23 @@ Ejemplo 2: Superdotado + autismo puede significar:
     	\textbf{Característica} & \textbf{Superdotación} & \textbf{TDAH} & \textbf{Autismo} & \textbf{Ansiedad} \\
     \hline
 \endhead
-Atención & Selectiva: se mantiene en lo que interesa & Inconstante: dificultad sostenida en muchas tareas & Variable: puede hiperfocalizar en intereses & Focalizada en amenazas; hipervigilancia \\
+Atención & Selectiva: se mantiene en lo que interesa & Inconstante: difi\-cultad sostenida en muchas tareas & Variable: puede hiper\-focalizar en intereses & Focalizada en amenazas; hipervigilancia \\
     \hline
-Inicio & Suele presentarse desde la infancia (rasgo) & Suele aparecer desde la infancia & Suele aparecer desde la infancia & Puede aparecer o empeorar en cualquier momento \\
+Inicio & Suele pre\-sen\-tar\-se desde la infancia (rasgo) & Suele aparecer desde la infancia & Suele aparecer desde la infancia & Puede aparecer o empeorar en cualquier momento \\
     \hline
-Dependencia del contexto & Muy dependiente: se aburre en entornos poco estimulantes & Menos dependiente: la dificultad persiste en muchos contextos & Dependiente del entorno sensorial y social & Puede manifestarse en contextos estresantes o percibidos como peligrosos \\
+Dependencia del contexto & Muy depen\-diente: se aburre en entornos poco estimu\-lantes & Menos depen\-diente: la dificultad persiste en muchos contextos & Dependiente del entorno sensorial y social & Puede manifestarse en contextos estresantes o percibidos como peligrosos \\
     \hline
 Impulsividad & A veces (comentarios rápidos, cuestiona) & Frecuente (actos sin inhibición) & Ocasional, a menudo por ansiedad o sobrecarga & Rara; suele evitar acciones impulsivas por miedo \\
     \hline
-Intensidad emocional & Alta (sobreexcitabilidad, intensidad afectiva) & Frecuente (desregulación emocional) & Puede estar presente; respuesta afectiva atípica & Central: preocupación persistente y reactividad \\
+Intensidad emocional & Alta (sobre\-exci\-tabilidad, intensidad afectiva) & Frecuente (des\-regu\-lación emocional) & Puede estar presente; respuesta afectiva atípica & Central: preocu\-pación persistente y reactividad \\
     \hline
 Hiperfocus & En intereses pasionales (profundo y creativo) & En tareas estimulantes o novedosas & En intereses restringidos y repetitivos & No típico (más rumia o fijación en amenazas) \\
     \hline
-Comportamiento social & Elige relacionarse con similares; puede resultar distinto & A veces conflictivo por impulsividad & Dificultad neurobiológica para interactuar & Evitación social por miedo; no por incapacidad social \\
+Comportamiento social & Elige rela\-cio\-nar\-se con similares; puede resultar distinto & A veces conflictivo por impulsividad & Dificultad neuro\-bio\-lógica para interactuar & Evitación social por miedo; no por incapacidad social \\
     \hline
-Rituales / Rutinas & Prefiere orden, pero flexible si hay razón & Beneficia de estructura, no rígido & Necesidad rígida de rutinas; malestar con cambios & Puede desarrollar rituales para reducir ansiedad \\
+Rituales / Rutinas & Prefiere orden, pero flexible si hay razón & Beneficia de estructura, no rígido & Necesidad rígida de rutinas; malestar con cambios & Puede desa\-rro\-llar rituales para reducir ansiedad \\
     \hline
-Respuesta a tratamiento & Intervenciones psicoeducativas y enfoque en fortalezas & Medicación + terapia conductual suelen ayudar & Soporte y adaptaciones; intervención específica según necesidad & Terapia (CBT) y/o medicación suelen ser eficaces \\
+Respuesta a tratamiento & Inter\-ven\-ciones psico\-edu\-cativas y enfoque en fortalezas & Medi\-cación + terapia conductual suelen ayudar & Soporte y adap\-ta\-ciones; inter\-ven\-ción específica según necesidad & Terapia (CBT) y/o medi\-cación suelen ser eficaces \\
     \hline
 \end{longtable}
 \end{center}
@@ -836,6 +844,7 @@ La respuesta típica: ``Habría perseguido mi verdadero trabajo. Habría sido au
 
 Esa claridad es liberadora. De repente, el ``riesgo`` de seguir tu visión se ve menos arriesgado que el riesgo de \textit{no} seguirlo.
 
+\newpage
 
 \subsection{Parte 6: Diseño de Vida Significativa }
 
@@ -1387,7 +1396,7 @@ Si tiene TDAH:
     \item Priorización
 \end{itemize}
 
-NOT: ``Solo sé mejor organizado.`` SÍ: ``Aquí hay estrategias específicas para TDAH + superdotación.``
+NO: ``Solo sé mejor organizado.`` SÍ: ``Aquí hay estrategias específicas para TDAH + superdotación.``
 
 
 \textbf{Intervención \#4: Acomodaciones Laborales/Educativas}
@@ -1672,7 +1681,7 @@ Eso es liberación.
 
 \begin{enumerate}[leftmargin=*]
     \item \textbf{Busca evaluación neuropsicológica integral} (no solo test de IQ)
-    \item \textbf{Especifica}: Quieres evaluación de superdotación + evaluación para TDAH/autismo/dificultades de aprendizaje
+    \item \textbf{Especifica}: Quieres evaluación de superdotación + evaluación para TDAH/\allowbreak autismo/\allowbreak dificultades de aprendizaje
     \item \textbf{Asegúrate que evaluador entienda 2E} (pregunta directamente: ``¿Tienes experiencia diagnosticando doble excepcionalidad?``)
 \end{enumerate}
 
@@ -2476,12 +2485,13 @@ Entonces ocultan. Se conforman. Desaprovechan talentos que podrían cambiar el m
 
 \subsection{Folleto para Distribución (2 páginas)}
 
-\textbf{PORTADA:}
+	\textbf{PORTADA:}
 
-> \# LA SUPERDOTACIÓN EXISTE
-> \#\# La comprensión también debería
->
-> \textit{¿Qué es realmente la superdotación? Desmontando 8 mitos que perpetúan el estigma}
+\begin{center}
+    {\Huge\textbf{LA SUPERDOTACIÓN EXISTE}}\\[6pt]
+    {\Large La comprensión también debería}\\[6pt]
+    {\itshape ¿Qué es realmente la superdotación? Desmontando 8 mitos que perpetúan el estigma}
+\end{center}
 
 
 \textbf{PÁGINA 1:}
@@ -2505,37 +2515,39 @@ Entonces ocultan. Se conforman. Desaprovechan talentos que podrían cambiar el m
 
 \textbf{¿QUÉ NECESITAN LOS SUPERDOTADOS?}
 
-✓ Identificación temprana (desde edades 3-4 años en adelante)
+\(\checkmark\) Identificación temprana (desde edades 3-4 años en adelante)
 
-✓ Educación diferenciada (enriquecimiento, no simplemente ``más de lo mismo``)
+\(\checkmark\) Educación diferenciada (enriquecimiento, no simplemente ``más de lo mismo``)
 
-✓ Apoyo emocional y social (manejar intensidad, sensibilidad, alienación)
+\(\checkmark\) Apoyo emocional y social (manejar intensidad, sensibilidad, alienación)
 
-✓ Comprensión de su diferencia (no patologización)
+\(\checkmark\) Comprensión de su diferencia (no patologización)
 
-✓ Acceso equitativo sin barreras de clase, género, etnia
+\(\checkmark\) Acceso equitativo sin barreras de clase, género, etnia
 
 \textbf{¿QUÉ SUCEDE SIN APOYO?}
 
-✗ Depresión y ansiedad
+\(\times\) Depresión y ansiedad
 
-✗ Fracaso académico deliberado (underachievement)
+\(\times\) Fracaso académico deliberado (underachievement)
 
-✗ Alienación social y aislamiento
+\(\times\) Alienación social y aislamiento
 
-✗ Síndrome del impostor
+\(\times\) Síndrome del impostor
 
-✗ Pérdida de talento para la sociedad
+\(\times\) Pérdida de talento para la sociedad
 
 \textbf{MENSAJES CLAVE PARA RECORDAR:}
 
-> ``La superdotación no es sobre ser 'mejor' que otros. Es sobre funcionar diferente.``
+\begin{quote}
+``La superdotación no es sobre ser 'mejor' que otros. Es sobre funcionar diferente.``
 
-> ``Un superdotado sin apoyo no es un fracaso de la superdotación. Es un fracaso del sistema.``
+``Un superdotado sin apoyo no es un fracaso de la superdotación. Es un fracaso del sistema.``
 
-> ``La intensidad del superdotado no es un defecto. Es su regalo.``
+``La intensidad del superdotado no es un defecto. Es su regalo.``
 
-> ``Si conoces a un superdotado que se siente solo, lo más importante no es su inteligencia—es saber que alguien lo entiende.``
+``Si conoces a un superdotado que se siente solo, lo más importante no es su inteligencia—es saber que alguien lo entiende.``
+\end{quote}
 
 \textbf{RECURSOS:}
 
@@ -2611,7 +2623,7 @@ Es hora de cambiar la narrativa.
 \textbf{Post 4:}
 ``¿Tu hijo pregunta por qué, por qué, por qué?
 ¿Piensa que 'debería haber'?
->¿Siente las emociones profundamente?
+¿Siente las emociones profundamente?
 ¿Se aburre en clase?
 
 Podría ser superdotado.
@@ -2764,17 +2776,19 @@ Ejemplo:
 
 \section{PARTE VII: REFLEXIÓN FINAL}
 
-> ``El mito es cómodo. Es más fácil creer que los superdotados están bien solos que reconocer que necesitan apoyo.
->
-> Es más fácil creer que son raros que reconocer que simplemente operan diferente.
->
-> Es más fácil ignorarlos que cambiar un sistema educativo que no fue diseñado para ellos.
->
-> Pero cada mito que perpetúas, es un superdotado que se oculta.
->
-> Cada mito que desmontas, es una comprensión que crece.
->
-> Elige desmontar.``
+\begin{quote}
+``El mito es cómodo. Es más fácil creer que los superdotados están bien solos que reconocer que necesitan apoyo.
+
+Es más fácil creer que son raros que reconocer que simplemente operan diferente.
+
+Es más fácil ignorarlos que cambiar un sistema educativo que no fue diseñado para ellos.
+
+Pero cada mito que perpetúas, es un superdotado que se oculta.
+
+Cada mito que desmontas, es una comprensión que crece.
+
+Elige desmontar.``
+\end{quote}
 
 
 
@@ -3598,7 +3612,7 @@ Y \textbf{creelo.}
 Practica. La próxima vez que alguien te halague, SOLO di ``gracias.`` No argumentes. No minimices. Solo acepta.
 
 
-\textbf{Estrategia 4: El SBNRR Technique} (Para Impostor Thoughts)
+\textbf{Estrategia 4: La técnica SBNRR}
 
 Cuando sientas la ola de ``Soy un fraude``:
 
@@ -4582,13 +4596,15 @@ $\square$ Involucra a familias de contextos diversos en diseño de programas?
 
 \textbf{FIN DE LA CHARLA}
 
-\textbf{Última reflexión:}
+	\textbf{Última reflexión:}
 
-> ``La superdotación no es solo una característica individual. Es una relación entre una persona y su contexto social.
->
-> Si el contexto está diseñado para ver solo ciertos tipos de talento—en ciertos tipos de cuerpos—entonces no es el talento el que falta.
->
-> Es la justicia.``
+\begin{quote}
+``La superdotación no es solo una característica individual. Es una relación entre una persona y su contexto social.
+
+Si el contexto está diseñado para ver solo ciertos tipos de talento—en ciertos tipos de cuerpos—entonces no es el talento el que falta.
+
+Es la justicia.``
+\end{quote}
 
 
 \newpage
@@ -6205,10 +6221,10 @@ En cada región, crear un centro de referencia (público o concertado) especiali
 \subsection{Organizaciones de Advocacy}
 
 \begin{itemize}[leftmargin=*]
-    \item \textbf{Mensa España}: https://www.mensa.es
-    \item \textbf{AEST}: https://www.aestuperhumana.org
-    \item \textbf{El Mundo del Superdotado}: https://www.elmundodelsuperdotado.com
-    \item \textbf{Fundación El Mundo del Superdotado}: https://www.fundacionelmundodelsuperdotado.es
+    \item \textbf{Mensa España}: \url{https://www.mensa.es}
+    \item \textbf{AEST}: \url{https://www.aestuperhumana.org}
+    \item \textbf{El Mundo del Superdotado}: \url{https://www.elmundodelsuperdotado.com}
+    \item \textbf{Fundación El Mundo del Superdotado}:\\ \url{https://www.fundacionelmundodelsuperdotado.es}
 \end{itemize}
 
 
@@ -7328,7 +7344,7 @@ Es como pedirle a un maestro de ajedrez que juegue damas todo el día.
 Burnout laboral en superdotados NO viene de ``trabajar demasiado.`` Viene de trabajar en cosas sin sentido, sin desafío, bajo estructuras que asfixian su creatividad.
 
 
-\subsection{Parte 2: La Crisis de Elección de Carrera—Multipotencialidad }
+\subsection{Parte 2: La Crisis de Elección de Carrera\protect\\Multipotencialidad }
 
 Aquí viene el verdadero reto: \textbf{Eres bueno en demasiadas cosas.}
 
@@ -7754,6 +7770,26 @@ Tu tarea: \textbf{Diseña, no conformes.}
 
 
 \newpage
+
+\section*{Declaración sobre el uso de Inteligencia Artificial}
+
+Este documento ha sido elaborado con el apoyo de herramientas de inteligencia artificial, que han sido utilizadas como asistencia en las siguientes áreas:
+
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Investigación y síntesis de contenido}: Las herramientas de IA han facilitado la búsqueda, organización y síntesis de información relevante sobre altas capacidades, superdotación en adultos y temas relacionados con la neurodiversidad.
+    
+    \item \textbf{Maquetación y formato del documento}: Se ha empleado IA para optimizar la estructura LaTeX, mejorar la presentación visual, generar tablas comparativas y asegurar la coherencia del formato a lo largo del documento.
+    
+    \item \textbf{Revisión y mejora de redacción}: La inteligencia artificial ha contribuido a refinar la claridad, coherencia y fluidez del texto, manteniendo siempre la fidelidad al contenido académico y profesional.
+\end{itemize}
+
+\textbf{Responsabilidad y autoría}: Todo el contenido ha sido supervisado, revisado y validado por los autores de AlumniPEAC. La responsabilidad final sobre la exactitud, pertinencia y calidad del material recae exclusivamente en el equipo humano responsable de este trabajo. La IA ha actuado únicamente como herramienta de apoyo, sin sustituir el criterio profesional ni la experiencia en el campo de las altas capacidades.
+
+\textbf{Compromiso con la calidad}: Nos comprometemos a mantener los más altos estándares de rigor académico y profesional en todo el contenido presentado, asegurando que las fuentes sean verificables y que las afirmaciones estén fundamentadas en evidencia científica y práctica clínica reconocida.
+
+\vspace{1em}
+
+\textit{Fecha de elaboración: \today}
 
 \end{document}
 

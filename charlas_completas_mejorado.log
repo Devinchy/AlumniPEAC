@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.31)  4 NOV 2025 18:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.10.31)  5 NOV 2025 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1011,7 +1011,7 @@ L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `charlas_completas_mejorado.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 471688D745CEA9DFA00F3B9EC128509C;89946.
+(rerunfilecheck)             Checksum: 7B8E120F43A4CC503F66FC294254B07C;89946.
  ) 
 Here is how much of TeX's memory you used:
  13710 strings out of 476120
@@ -1042,7 +1042,7 @@ ec/ecrm1440.600pk> </home/david/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen
 m/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on charlas_completas_mejorado.pdf (170 pages, 706153 bytes).
+Output written on charlas_completas_mejorado.pdf (170 pages, 706362 bytes).
 PDF statistics:
  3826 PDF objects out of 4296 (max. 8388607)
  2802 compressed objects within 29 object streams
